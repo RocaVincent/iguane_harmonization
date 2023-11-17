@@ -6,8 +6,8 @@ import numpy as np
 
 
 ##########INPUTS##############
-mri_paths = ['/NAS/coolio/vincent/data/ixi/mni152/n4brains160_normMed/42.nii.gz', '/NAS/coolio/vincent/data/ixi/mni152/n4brains160_normMed/504.nii.gz']
-dest_paths = ['/home/vincent/out_images/42.nii.gz','/home/vincent/out_images/504.nii.gz']
+mri_paths = # TO DEFINE
+dest_paths = # TO DEFINE
 weights_path = './iguane_weights.h5'
 #############
 
@@ -32,6 +32,7 @@ for i,(mri_path,dest_path) in enumerate(zip(mri_paths,dest_paths), start=1):
     data = gen(t, training=False).numpy().squeeze()
     data = (data+1) * 500
     data[~mask] = 0
+    data = np.maximum(data, 0)
     mri = nib.Nifti1Image(data, affine=mri.affine, header=mri.header)
     nib.save(mri, dest_path)
     
