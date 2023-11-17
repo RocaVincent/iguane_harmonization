@@ -1,6 +1,6 @@
 # IGUANe harmonization
 
-<img style="float: right;" src="iguane.png" width="250">
+<img align="right" src="iguane.png" width="250">
 
 This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in a paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted brain images. It can be used in a straightforward for harmonization of your own MR images (see [Inference](#Inference)). Harmonization of other types of 3D images can be carried out by retraining a model (see [Training](#Training)). For both inference and training, the MR images should be preprocessed by following our pipeline (see [Preprocessing](#Preprocessing)).
 
