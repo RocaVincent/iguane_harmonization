@@ -2,7 +2,7 @@
 
 <img align='right' src="iguane.png" width="250">
 
-This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in a paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted brain images. It can be used in a straightforward for harmonization of your own MR images (see [Harmonization inference](#harmonization-inference)). Harmonization of other types of 3D images can be carried out by retraining a model (see [Harmonization training](#harmonization-training)). For both inference and training, the MR images should be preprocessed by following our pipeline (see [Preprocessing](#Preprocessing)).
+This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in the paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted brain images. It can be used in a straightforward for harmonization of your own MR images (see [Harmonization inference](#harmonization-inference)). Harmonization of other types of 3D images can be carried out by retraining a model (see [Harmonization training](#harmonization-training)). For both inference and training, the MR images should be preprocessed by following our pipeline (see [Preprocessing](#Preprocessing)).
 
 
 ## Preprocessing
@@ -36,7 +36,7 @@ mkdir -p $CONDA_PREFIX/lib/nvvm/libdevice
 ln -s $CONDA_PREFIX/lib/libdevice.10.bc $CONDA_PREFIX/lib/nvvm/libdevice
 ```
 
-# Harmonization inference
+## Harmonization inference
 
 To apply IGUANe harmonization, you can use the script *./harmonization/inference.py*. Three variables need to be defined:
 - `mri_paths`: list of the filepaths of the preprocessed MR images.
@@ -45,7 +45,7 @@ To apply IGUANe harmonization, you can use the script *./harmonization/inference
 
 **Note:** You must be in the *./harmonization* directory to use the script.
 
-# Harmonization training
+## Harmonization training
 
 Tfrecords between min and median at -1 and 0. Dimensions divisible by 16.
 
