@@ -11,23 +11,13 @@ from json import dump as json_dump
 
 #################INPUT DATASETS#########################
 from input_pipeline.tf_dataset import datasets_from_tfrecords, datasets_from_tfrecords_biasSampling
-import pandas as pd
-def get_entries(records_dir):
-    df = pd.read_csv(records_dir+'/metadata.csv')
-    pathsA = [f"{records_dir}/{fn}" for fn in df.recordsB]
-    pathsB = [f"{records_dir}/{fn}" for fn in df.recordsA]
-    probas = df.proba.to_list()
-    buf_size = 60 // len(df)
-    return pathsA, pathsB, probas, [buf_size for _ in range(len(df))], [buf_size for _ in range(len(df))]
-datasets = 'oas-trio', 'icbm-sonata','aibl','oas-bio','hcp','ixi-guys','nki','ixi-hh','icbm-ACS','nmorph'
-record_entries = [get_entries(f"/NAS/coolio/vincent/data/tfrecords_probaSampling/records160/sald_{ds}") for ds in datasets]
-dataset_pairs = datasets_from_tfrecords_biasSampling(record_entries)
+dataset_pairs = # TO DEFINE
 
 
 ##########INPUT PARAMETERS################
-DEST_DIR_PATH = '/home/vincent/tmp' # TO DEFINE
-N_EPOCHS = 20#100
-STEPS_PER_EPOCH = 10#200
+DEST_DIR_PATH = # TO DEFINE
+N_EPOCHS = 100
+STEPS_PER_EPOCH = 200
 
 
 # Instancitation of the generators and the discriminators

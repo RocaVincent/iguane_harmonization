@@ -25,8 +25,8 @@ def datasets_from_tfrecords(records_ref, records_src, buf_size_ref, buf_sizes_sr
     datasets = [Dataset.zip(dsRef, ds).repeat() for ds in dsSrcs]
     datasets = [ds.map(lambda t1, t2: (augmentation(parse_single_example(t1, keys_to_feature)['mri']),
                                        augmentation(parse_single_example(t2, keys_to_feature)['mri'])),
-                       num_parallel_calls=AUTOTUNE, deterministic=False)]
-    return datasets.batch(batch_size, num_parallel_calls=AUTOTUNE, deterministic=False).prefetch(AUTOTUNE).__iter__()
+                       num_parallel_calls=AUTOTUNE, deterministic=False) for ds in datasets]
+    return [ds.batch(batch_size, num_parallel_calls=AUTOTUNE, deterministic=False).prefetch(AUTOTUNE).__iter__() for ds in datasets]
     
     
     

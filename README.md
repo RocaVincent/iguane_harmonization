@@ -43,27 +43,48 @@ To apply IGUANe harmonization, you can use the script *./harmonization/inference
 - `dest_paths`: list of the destination filepaths for the harmonized MR images.
 - `weights_path`: filepath (*.h5*) for the weights of the harmonization model. You can let it to *./iguane_weights.h5* to use the model we trained in our study our use your own model.
 
-**Note:** You must be in the *./harmonization* directory to use the script.
+You must be in the *./harmonization* directory to use the script.
+
+The scripts runs faster with GPU but can also be used with CPU only.
+
 
 ## Harmonization training
 
-Tfrecords between min and median at -1 and 0. Dimensions divisible by 16.
+To train your own harmonization model, you can use the scrip *./harmonization/training/main.py*. The following variables need to be defined:
+- `dataset_pairs`: A list of infinite iterators corresponding to each source domain. Each one yields a batch with images from the reference domain and images from the source domain. To implement them, you can use one of the two functions defined in *./harmonization/training/input_pipeline/tf_dataset.py*. Both work from files in *TFRecord* format ([documentation](https://www.tensorflow.org/tutorials/load_data/tfrecord)) where each entry must have been encoded from a dictionnary with `mri` key associated with the MR matrix as value. **Important:** The intensities must have been scaled/shifted to have median of brain intensity and backgroud to 0 and -1, respectively (`mri = mri/500-1` after [preprocessing](#preprocessing)).
+  - `datasets_from_tfrecords`: Creates dataset pairs without bias sampling.
+  - `datasets_from_tfrecords_biasSampling`: Creates dataset pairs with the bias sampling strategy described in our paper. The function we used to compute the sampling probabilities in our experiments is in *./harmonization/training/input_pipeline/bias_sampling_age.py*.
+- `DEST_DIR_PATH`: directory path to which the model weights and the training statistics will be saved.
+- `N_EPOCHS`, `STEPS_PER_EPOCH`
+- `eval_model`: a validation function that takes no arguments and returns a score to maximize. This function is executed every `EVAL_FREQ` epochs and the weights of the best model are saved in *<DEST_DIR_PATH>/best_genUniv.h5*. You can also change the value of `EVAL_FREQ`. 
+
+You can change the image shape in *./harmonization/training/input_pipeline/constants.py*.
 
 
-Training prediction : cache,shuffle potentiellement à modifier (mémoire).
-Training prediction : loss régression ou classif binaire
+## Prediction tasks
+
+We provide the code we used for our age prediction models and our binary classifiers.
+
+- *./prediction/training/main.py*: script for training; the following variables must be defined:
+  - `dataset`: TensorFlow dataset that yields a batch of MR images with corresponding targets. You can use the function defined in *./prediction/training/input_pipeline/tf_dataset.py*.
+  - `loss`: loss function (e.g. `'mae'` for regression, `tensorflow.keras.losses.BinaryCrossentropy(from_logits=True)` for classification)
+  - `DEST_DIR_PATH`: directory path to which the model weights and the training statistics will be saved
+  - `N_EPOCHS`, `STEPS_PER_EPOCH`
+- *./prediction/inference.py*: script for training; the following variables must be defined:
+  - `mri_paths`
+  - `ids_dict`: a dictionary with fields enabling the image identifications in the output CSV (e.g. `{'sub_id':[1,2], 'session':['sesA','sesB']}`)
+  - `intensity_norm`: function to apply on each image before inference (e.g. `def intensity_norm(mri): return mri/500 - 1`)
+  - `activation`: last activation function (e.g. *sigmoid* for binary classifier, identity for regressor)
+  - `model_weights`: filepath (*.h5*) for the weights of the predictive model.
+  - `csv_dest`
+  - `IMAGE_SHAPE` -> must correspond with the shapes in `mri_paths` (with channel dimension)
+  
+For training, you can change the image shape in *./prediction/training/input_pipeline/constants.py*.
 
 
-Explication installation packages (numpy pandas scipy tensorflow).
+## Metadata
+
+We provide the metadata for the different datasets we used in our study in the *./metadata/* directory.
 
 
-Les éléments à définir avant de lancer les entraînements. (évoquer IMAGE_SHAPE)
 
-
-Indiquer les outputs dans les DEST_DIR_PATHS.
-
-
-Voir pour GPU/CPU. Expliquer qu'avec 10 sites source,on a réussi à entraîner avec GPU 24GB.
-
-
-Indiquer les types de fichiers d'inputs pour l'inférence (nib.load).

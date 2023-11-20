@@ -14,19 +14,13 @@ from input_pipeline.constants import IMAGE_SHAPE
 
 
 ##########INPUT DATA################
-import pandas as pd
-df = pd.read_csv('/NAS/coolio/vincent/data/ixi/metadata_160.csv')
-mri_paths = df.sub_id.apply(lambda id_: f"/NAS/coolio/vincent/data/ixi/mni152/n4brains160_normMed/{id_}.nii.gz").tolist()
-targets = df.age.tolist()
-def intensity_norm(mri): return mri/500 - 1
-BATCH_SIZE = 16
-dataset = dataset_from_pathList(mri_paths, targets, intensity_norm, BATCH_SIZE)
+dataset = # to define
 
 
 #######INPUT PARAMETERS#############
 loss = 'mae'
-DEST_DIR_PATH = '/home/vincent/tmp'
-N_EPOCHS = 10
+DEST_DIR_PATH = # to define
+N_EPOCHS = 400
 
 
 # optimizer instanciation
