@@ -2,7 +2,7 @@
 
 <img align='right' src="iguane.png" width="250">
 
-This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in the paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted brain images. It can be used in a straightforward for harmonization of your own MR images (see [Harmonization inference](#harmonization-inference)). Harmonization of other types of 3D images can be carried out by retraining a model (see [Harmonization training](#harmonization-training)). For both inference and training, the MR images should be preprocessed by following our pipeline (see [Preprocessing](#Preprocessing)).
+This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in the paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted brain images. It can be used in a straightforward way for harmonization of your own MR images (see [Harmonization inference](#harmonization-inference)). Harmonization of other types of 3D images can be carried out by retraining a model (see [Harmonization training](#harmonization-training)). For both inference and training, the MR images should be preprocessed by following our pipeline (see [Preprocessing](#Preprocessing)).
 
 
 ## Preprocessing
@@ -43,9 +43,9 @@ To apply IGUANe harmonization, you can use the script *./harmonization/inference
 - `dest_paths`: list of the destination filepaths for the harmonized MR images.
 - `weights_path`: filepath (*.h5*) for the weights of the harmonization model. You can let it to *./iguane_weights.h5* to use the model we trained in our study our use your own model.
 
-You must be in the *./harmonization* directory to use the script.
-
 The scripts runs faster with GPU but can also be used with CPU only.
+
+You must be in the *./harmonization* directory to use this script.
 
 
 ## Harmonization training
@@ -58,7 +58,9 @@ To train your own harmonization model, you can use the scrip *./harmonization/tr
 - `N_EPOCHS`, `STEPS_PER_EPOCH`
 - `eval_model`: a validation function that takes no arguments and returns a score to maximize. This function is executed every `EVAL_FREQ` epochs and the weights of the best model are saved in *<DEST_DIR_PATH>/best_genUniv.h5*. You can also change the value of `EVAL_FREQ`. 
 
-You can change the image shape in *./harmonization/training/input_pipeline/constants.py*.
+You can change the image shape in *./harmonization/training/input_pipeline/constants.py*. A GPU needs to be available to run this script.
+
+You must be in the *./harmonization/training* directory to use this script.
 
 
 ## Prediction tasks
@@ -79,7 +81,9 @@ We provide the code we used for our age prediction models and our binary classif
   - `csv_dest`
   - `IMAGE_SHAPE` -> must correspond with the shapes in `mri_paths` (with channel dimension)
   
-For training, you can change the image shape in *./prediction/training/input_pipeline/constants.py*.
+For training, you can change the image shape in *./prediction/training/input_pipeline/constants.py*. You must in the *./prediction/training* to run the script.
+
+For inference, you must be in the *./prediction* directory.
 
 
 ## Metadata
