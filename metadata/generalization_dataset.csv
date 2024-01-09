@@ -1,1180 +1,1180 @@
-mri_id,ds_name,manufacturer,mfg_model,field_strength,image_id,sub_id,session,run,age,sex
-adniI70113,adni,ge,GENESIS_SIGNA,1.5,70113.0,1249,,,71.4,F
-adniI143884,adni,ge,GENESIS_SIGNA,3.0,143884.0,441,,,75.8,F
-adniI273564,adni,ge,DISCOVERY MR750,3.0,273564.0,4421,,,75.2,F
-adniI287527,adni,ge,DISCOVERY MR750,3.0,287527.0,4558,,,70.1,F
-adniI420523,adni,ge,DISCOVERY MR750,3.0,420523.0,4645,,,78.4,F
-adniI36798,adni,ge,GENESIS_SIGNA,3.0,36798.0,441,,,73.5,F
-adniI786133,adni,ge,DISCOVERY MR750,3.0,786133.0,4003,,,72.8,F
-adniI319414,adni,ge,Signa HDxt,3.0,319414.0,4839,,,65.6,M
-adniI380982,adni,ge,Signa HDxt,3.0,380982.0,4649,,,66.1,M
-adniI283439,adni,ge,Signa HDxt,3.0,283439.0,4459,,,68.2,F
-adniI461000,adni,ge,SIGNA HDx,1.5,461000.0,602,,,79.4,M
-adniI224611,adni,ge,DISCOVERY MR750,3.0,224611.0,4003,,,72.4,F
-adniI11645,adni,ge,SIGNA EXCITE,1.5,11645.0,223,,,78.1,F
-adniI367535,adni,ge,Signa HDxt,3.0,367535.0,4900,,,60.4,F
-adniI42948,adni,ge,SIGNA EXCITE,1.5,42948.0,232,,,79.1,M
-adniI299397,adni,ge,Signa HDxt,1.5,299397.0,1222,,,78.7,F
-adniI53717,adni,ge,SIGNA EXCITE,1.5,53717.0,196,,,79.1,F
-adniI224500,adni,ge,SIGNA EXCITE,1.5,224500.0,1250,,,77.4,F
-adniI135476,adni,ge,GENESIS_SIGNA,1.5,135476.0,1232,,,74.2,F
-adniI204415,adni,ge,Signa HDxt,1.5,204415.0,1098,,,76.1,F
-adniI41449,adni,ge,SIGNA HDx,3.0,41449.0,1241,,,72.2,M
-adniI920975,adni,ge,DISCOVERY MR750,3.0,920975.0,4076,,,79.0,F
-adniI24826,adni,ge,SIGNA EXCITE,1.5,24826.0,232,,,78.6,M
-adniI28089,adni,ge,SIGNA EXCITE,1.5,28089.0,301,,,74.2,F
-adniI40503,adni,ge,SIGNA EXCITE,1.5,40503.0,1261,,,71.3,F
-adniI260369,adni,ge,Signa HDxt,3.0,260369.0,4097,,,71.1,F
-adniI882274,adni,ge,DISCOVERY MR750,3.0,882274.0,4604,,,70.4,M
-adniI547774,adni,ge,DISCOVERY MR750,3.0,547774.0,4335,,,75.8,F
-adniI367533,adni,ge,Signa HDxt,3.0,367533.0,4900,,,60.4,F
-adniI49328,adni,ge,GENESIS_SIGNA,3.0,49328.0,1301,,,72.4,F
-adniI66061,adni,ge,SIGNA HDx,1.5,66061.0,602,,,72.1,M
-adniI19156,adni,ge,SIGNA EXCITE,1.5,19156.0,734,,,72.6,M
-adniI284250,adni,ge,GENESIS_SIGNA,1.5,284250.0,1232,,,77.2,F
-adniI56482,adni,ge,SIGNA HDx,1.5,56482.0,1098,,,72.6,F
-adniI190819,adni,ge,GENESIS_SIGNA,1.5,190819.0,382,,,79.9,F
-adniI173062,adni,ge,SIGNA HDx,1.5,173062.0,337,,,80.0,M
-adniI285190,adni,ge,SIGNA HDx,3.0,285190.0,4422,,,71.1,F
-adniI1328524,adni,ge,SIGNA Premier,3.0,1328524.0,6509,,,67.5,M
-adniI70097,adni,ge,SIGNA EXCITE,1.5,70097.0,1280,,,71.4,F
-adniI1014334,adni,ge,DISCOVERY MR750,3.0,1014334.0,6457,,,74.6,M
-adniI160298,adni,ge,Signa HDxt,1.5,160298.0,1098,,,75.1,F
-adniI154018,adni,ge,SIGNA EXCITE,1.5,154018.0,751,,,74.0,M
-adniI225440,adni,ge,SIGNA EXCITE,1.5,225440.0,172,,,75.7,F
-adniI103963,adni,ge,GENESIS_SIGNA,3.0,103963.0,441,,,74.8,F
-adniI20016,adni,ge,SIGNA EXCITE,1.5,20016.0,751,,,70.9,M
-adniI41448,adni,ge,SIGNA HDx,3.0,41448.0,1241,,,72.2,M
-adniI54627,adni,ge,SIGNA HDx,1.5,54627.0,459,,,74.1,M
-adniI1544012,adni,ge,DISCOVERY MR750,3.0,1544012.0,6147,,,73.7,M
-adniI361704,adni,ge,Signa HDxt,3.0,361704.0,4503,,,72.8,F
-adniI321376,adni,ge,Signa HDxt,3.0,321376.0,4872,,,68.6,F
-adniI10934,adni,ge,SIGNA EXCITE,1.5,10934.0,120,,,72.1,M
-adniI291317,adni,ge,Signa HDxt,3.0,291317.0,4555,,,65.9,F
-adniI91614,adni,ge,SIGNA HDx,1.5,91614.0,1206,,,74.1,M
-adniI216139,adni,ge,Signa HDxt,1.5,216139.0,120,,,77.2,M
-adniI69267,adni,ge,SIGNA HDx,1.5,69267.0,684,,,78.6,F
-adniI273577,adni,ge,DISCOVERY MR750,3.0,273577.0,4421,,,75.2,F
-adniI309970,adni,ge,Signa HDxt,3.0,309970.0,4387,,,76.7,F
-adniI286228,adni,ge,Signa HDxt,3.0,286228.0,4503,,,71.8,F
-adniI76514,adni,ge,GENESIS_SIGNA,3.0,76514.0,1301,,,72.8,F
-adniI33200,adni,ge,SIGNA EXCITE,1.5,33200.0,493,,,78.2,M
-adniI100004,adni,ge,SIGNA HDx,3.0,100004.0,1267,,,74.4,M
-adniI399187,adni,ge,DISCOVERY MR750,3.0,399187.0,4369,,,70.4,M
-adniI26689,adni,ge,SIGNA EXCITE,1.5,26689.0,969,,,70.1,M
-adniI261410,adni,ge,DISCOVERY MR750,3.0,261410.0,4050,,,77.4,M
-adniI288016,adni,ge,Signa HDxt,3.0,288016.0,4387,,,76.4,F
-adniI9488,adni,ge,SIGNA EXCITE,1.5,9488.0,74,,,78.3,M
-adniI574444,adni,ge,Signa HDxt,3.0,574444.0,4951,,,75.2,F
-adniI49244,adni,ge,SIGNA EXCITE,1.5,49244.0,172,,,71.8,F
-adniI156288,adni,ge,Signa HDxt,1.5,156288.0,824,,,79.4,F
-adniI98728,adni,ge,SIGNA EXCITE,3.0,98728.0,1251,,,75.4,F
-adniI47327,adni,ge,SIGNA EXCITE,1.5,47327.0,484,,,71.6,M
-adniI173505,adni,ge,Signa HDxt,1.5,173505.0,441,,,76.8,F
-adniI116000,adni,ge,SIGNA HDx,1.5,116000.0,734,,,74.7,M
-adniI88609,adni,ge,SIGNA EXCITE,3.0,88609.0,1250,,,74.3,F
-adniI1484260,adni,ge,DISCOVERY MR750,3.0,1484260.0,6016,,,69.7,F
-adniI1346960,adni,ge,DISCOVERY MR750,3.0,1346960.0,6436,,,72.1,F
-adniI37849,adni,ge,GENESIS_SIGNA,1.5,37849.0,1232,,,72.2,F
-adniI11399,adni,ge,SIGNA EXCITE,1.5,11399.0,172,,,70.7,F
-adniI387411,adni,ge,DISCOVERY MR750,3.0,387411.0,4843,,,74.5,F
-adniI74915,adni,ge,SIGNA EXCITE,3.0,74915.0,1251,,,74.9,F
-adniI364310,adni,ge,Signa HDxt,3.0,364310.0,4560,,,71.5,F
-adniI111582,adni,ge,SIGNA EXCITE,1.5,111582.0,520,,,80.0,F
-adniI140906,adni,ge,SIGNA EXCITE,1.5,140906.0,172,,,73.8,F
-adniI284996,adni,ge,SIGNA HDx,3.0,284996.0,4396,,,78.7,F
-adniI12459,adni,ge,GENESIS_SIGNA,1.5,12459.0,229,,,74.5,F
-adniI17711,adni,ge,SIGNA EXCITE,3.0,17711.0,622,,,74.7,F
-adniI373933,adni,ge,Signa HDxt,3.0,373933.0,4649,,,66.6,M
-adniI76695,adni,ge,GENESIS_SIGNA,1.5,76695.0,778,,,73.7,M
-adniI76478,adni,ge,SIGNA EXCITE,1.5,76478.0,1301,,,72.8,F
-adniI294392,adni,ge,DISCOVERY MR750,3.0,294392.0,4421,,,75.4,F
-adniI379017,adni,ge,Signa HDxt,3.0,379017.0,4900,,,60.1,F
-adniI1180976,adni,ge,DISCOVERY MR750,3.0,1180976.0,6330,,,71.3,M
-adniI104454,adni,ge,SIGNA EXCITE,1.5,104454.0,337,,,78.0,M
-adniI284255,adni,ge,SIGNA HDx,3.0,284255.0,4371,,,68.0,M
-adniI298527,adni,ge,Signa HDxt,3.0,298527.0,4585,,,65.5,M
-adniI861323,adni,ge,DISCOVERY MR750w,3.0,861323.0,4446,,,73.8,F
-adniI14848,adni,ge,SIGNA EXCITE,1.5,14848.0,493,,,77.6,M
-adniI69921,adni,ge,SIGNA HDx,1.5,69921.0,1206,,,73.6,M
-adniI53629,adni,ge,SIGNA HDx,1.5,53629.0,301,,,74.7,F
-adniI16023,adni,ge,SIGNA EXCITE,1.5,16023.0,548,,,73.8,F
-adniI61949,adni,ge,SIGNA EXCITE,1.5,61949.0,680,,,78.9,M
-adniI135827,adni,ge,SIGNA HDx,3.0,135827.0,1206,,,75.0,M
-adniI947862,adni,ge,DISCOVERY MR750,3.0,947862.0,6146,,,65.5,F
-adniI24264,adni,ge,SIGNA EXCITE,1.5,24264.0,484,,,71.1,M
-adniI395646,adni,ge,DISCOVERY MR750,3.0,395646.0,4276,,,76.0,F
-adniI41255,adni,ge,SIGNA EXCITE,1.5,41255.0,1301,,,72.2,F
-adniI90038,adni,ge,GENESIS_SIGNA,1.5,90038.0,1249,,,71.9,F
-adniI1021434,adni,ge,DISCOVERY MR750,3.0,1021434.0,6436,,,69.8,F
-adniI381950,adni,ge,DISCOVERY MR750,3.0,381950.0,4275,,,74.6,M
-adniI331277,adni,ge,DISCOVERY MR750,3.0,331277.0,4198,,,79.5,F
-adniI95038,adni,ge,SIGNA EXCITE,1.5,95038.0,1251,,,75.4,F
-adniI135219,adni,ge,GENESIS_SIGNA,1.5,135219.0,1249,,,72.9,F
-adniI277108,adni,ge,Signa HDxt,3.0,277108.0,4441,,,68.8,F
-adniI1512668,adni,ge,DISCOVERY MR750,3.0,1512668.0,7024,,,74.0,M
-adniI272184,adni,ge,SIGNA HDx,3.0,272184.0,4422,,,70.9,F
-adniI315857,adni,philips,Achieva,3.0,315857.0,4835,,,79.4,M
-adniI1052843,adni,philips,Achieva,3.0,1052843.0,6578,,,66.9,M
-adniI274826,adni,philips,Intera,3.0,274826.0,4262,,,73.1,F
-adniI296640,adni,philips,Achieva,3.0,296640.0,4400,,,71.5,M
-adniI15416,adni,philips,Gyroscan Intera,1.5,15416.0,419,,,70.3,M
-adniI995457,adni,philips,Ingenia,3.0,995457.0,6335,,,67.2,M
-adniI963153,adni,philips,Ingenia,3.0,963153.0,6224,,,75.9,F
-adniI366226,adni,philips,Achieva,1.5,366226.0,315,,,78.7,M
-adniI29113,adni,philips,Intera,1.5,29113.0,298,,,77.2,M
-adniI296859,adni,philips,GEMINI,3.0,296859.0,4580,,,69.8,F
-adniI262075,adni,philips,Achieva,3.0,262075.0,4257,,,79.0,M
-adniI35796,adni,philips,Intera,1.5,35796.0,69,,,74.1,M
-adniI368892,adni,philips,Achieva,3.0,368892.0,4643,,,66.2,F
-adniI281885,adni,philips,Ingenia,3.0,281885.0,4485,,,73.4,M
-adniI139562,adni,philips,Intera,1.5,139562.0,69,,,76.3,M
-adniI927419,adni,philips,Ingenia,3.0,927419.0,6118,,,74.7,F
-adniI234915,adni,philips,Achieva,3.0,234915.0,4032,,,70.3,F
-adniI104996,adni,philips,Intera,1.5,104996.0,473,,,74.7,M
-adniI1008024,adni,philips,Ingenia,3.0,1008024.0,6408,,,59.5,F
-adniI110489,adni,philips,Intera,1.5,110489.0,419,,,72.4,M
-adniI742519,adni,philips,Intera,1.5,742519.0,419,,,79.4,M
-adniI286909,adni,philips,Intera,1.5,286909.0,127,,,76.8,M
-adniI140047,adni,philips,Intera,1.5,140047.0,127,,,73.9,M
-adniI37121,adni,philips,Intera,1.5,37121.0,67,,,75.8,M
-adniI330167,adni,philips,Achieva,3.0,330167.0,4269,,,66.5,F
-adniI784918,adni,philips,Achieva,3.0,784918.0,4643,,,69.2,F
-adniI9752,adni,philips,Gyroscan Intera,1.5,9752.0,72,,,70.7,M
-adniI269273,adni,philips,Achieva,3.0,269273.0,4367,,,65.2,F
-adniI327809,adni,philips,Achieva,3.0,327809.0,4399,,,78.7,F
-adniI420747,adni,philips,Achieva,1.5,420747.0,315,,,79.7,M
-adniI71249,adni,philips,Intera,3.0,71249.0,1286,,,76.2,F
-adniI15800,adni,philips,Intera,3.0,15800.0,413,,,76.4,F
-adniI299157,adni,philips,Intera,3.0,299157.0,4262,,,73.4,F
-adniI30039,adni,philips,Achieva,3.0,30039.0,969,,,70.1,M
-adniI420742,adni,philips,Achieva,1.5,420742.0,315,,,79.7,M
-adniI245344,adni,philips,Intera,1.5,245344.0,419,,,75.5,M
-adniI144390,adni,philips,Intera,1.5,144390.0,210,,,75.7,F
-adniI36129,adni,philips,Achieva,1.5,36129.0,1212,,,75.4,F
-adniI114293,adni,philips,Intera,1.5,114293.0,210,,,74.9,F
-adniI353952,adni,philips,Intera,1.5,353952.0,72,,,77.7,M
-adniI575601,adni,philips,Intera,3.0,575601.0,4270,,,78.9,F
-adniI37333,adni,philips,Intera,1.5,37333.0,1191,,,78.9,M
-adniI37456,adni,philips,Intera,1.5,37456.0,106,,,74.3,F
-adniI71218,adni,philips,Gyroscan NT,1.5,71218.0,1286,,,76.2,F
-adniI418006,adni,philips,Intera,3.0,418006.0,1261,,,78.3,F
-adniI139561,adni,philips,Intera,1.5,139561.0,69,,,76.3,M
-adniI259798,adni,philips,Intera,3.0,259798.0,4264,,,74.2,F
-adniI301753,adni,philips,Intera,3.0,301753.0,4270,,,75.3,F
-adniI141973,adni,philips,Intera,1.5,141973.0,298,,,79.6,M
-adniI58542,adni,philips,Achieva,1.5,58542.0,637,,,77.2,F
-adniI1018523,adni,philips,Ingenia,3.0,1018523.0,6448,,,67.8,M
-adniI362228,adni,philips,Achieva,3.0,362228.0,4496,,,77.3,F
-adniI309724,adni,philips,Intera,3.0,309724.0,4578,,,69.5,F
-adniI17079,adni,philips,Intera,1.5,17079.0,420,,,73.6,M
-adniI81038,adni,philips,Intera,3.0,81038.0,35,,,79.1,M
-adniI659919,adni,philips,Intera,3.0,659919.0,4578,,,73.3,F
-adniI129993,adni,philips,Achieva,3.0,129993.0,969,,,72.2,M
-adniI350457,adni,philips,Achieva,3.0,350457.0,4442,,,75.2,F
-adniI353956,adni,philips,Intera,1.5,353956.0,72,,,77.7,M
-adniI88394,adni,philips,Intera,1.5,88394.0,72,,,72.8,M
-adniI56726,adni,philips,Intera,1.5,56726.0,479,,,74.6,F
-adniI335995,adni,philips,Intera,3.0,335995.0,4213,,,79.1,F
-adniI575600,adni,philips,Intera,3.0,575600.0,4270,,,78.9,F
-adniI37403,adni,philips,Intera,3.0,37403.0,1212,,,75.4,F
-adniI341921,adni,philips,Achieva,3.0,341921.0,4469,,,66.8,M
-adniI213947,adni,philips,Intera,1.5,213947.0,106,,,78.3,F
-adniI401664,adni,philips,Achieva,3.0,401664.0,4367,,,67.3,F
-adniI320521,adni,philips,Achieva,3.0,320521.0,4257,,,79.8,M
-adniI30482,adni,philips,Intera,1.5,30482.0,472,,,72.5,M
-adniI290926,adni,philips,Intera,3.0,290926.0,4213,,,78.6,F
-adniI421361,adni,philips,Achieva,3.0,421361.0,4643,,,67.2,F
-adniI349323,adni,philips,Ingenia,3.0,349323.0,4357,,,74.8,F
-adniI105150,adni,philips,Intera,1.5,105150.0,298,,,78.7,M
-adniI105149,adni,philips,Intera,1.5,105149.0,298,,,78.7,M
-adniI38370,adni,philips,Intera,3.0,38370.0,1191,,,79.0,M
-adniI909607,adni,philips,Achieva,3.0,909607.0,4400,,,76.9,M
-adniI227314,adni,philips,Achieva,1.5,227314.0,315,,,76.7,M
-adniI395974,adni,philips,Ingenia,3.0,395974.0,731,,,78.9,M
-adniI53899,adni,philips,Intera,1.5,53899.0,298,,,77.7,M
-adniI30481,adni,philips,Intera,1.5,30481.0,472,,,72.5,M
-adniI1472002,adni,philips,Achieva dStream,3.0,1472002.0,6037,,,71.1,M
-adniI55783,adni,philips,Intera,3.0,55783.0,413,,,77.5,F
-adniI286905,adni,philips,Intera,1.5,286905.0,127,,,76.8,M
-adniI55460,adni,philips,Achieva,1.5,55460.0,1009,,,76.5,M
-adniI301756,adni,philips,Intera,3.0,301756.0,4270,,,75.3,F
-adniI139577,adni,philips,Intera,3.0,139577.0,1286,,,77.8,F
-adniI989757,adni,philips,Ingenia,3.0,989757.0,6326,,,75.8,M
-adniI15270,adni,philips,Intera,1.5,15270.0,479,,,73.6,F
-adniI83618,adni,philips,Achieva,1.5,83618.0,1009,,,77.0,M
-adniI55782,adni,philips,Intera,3.0,55782.0,413,,,77.5,F
-adniI871899,adni,philips,Achieva dStream,3.0,871899.0,6043,,,78.9,M
-adniI19183,adni,philips,Intera,1.5,19183.0,55,,,76.3,M
-adniI257274,adni,philips,Intera,3.0,257274.0,4225,,,70.0,M
-adniI561269,adni,philips,Ingenia,3.0,561269.0,498,,,80.0,M
-adniI70984,adni,philips,Intera,1.5,70984.0,1169,,,72.9,F
-adniI416762,adni,philips,Achieva,3.0,416762.0,4345,,,72.1,M
-adniI119253,adni,philips,Achieva,3.0,119253.0,886,,,73.4,F
-adniI118189,adni,philips,Intera,1.5,118189.0,420,,,75.8,M
-adniI350833,adni,philips,Ingenia,3.0,350833.0,4369,,,69.5,M
-adniI24270,adni,philips,Intera,1.5,24270.0,113,,,75.8,M
-adniI147771,adni,philips,Intera,1.5,147771.0,618,,,78.1,M
-adniI210967,adni,philips,Intera,1.5,210967.0,72,,,75.8,M
-adniI298513,adni,philips,Ingenia,3.0,298513.0,4449,,,67.2,F
-adniI41798,adni,philips,Intera,3.0,41798.0,1261,,,71.3,F
-adniI247680,adni,philips,Intera,1.5,247680.0,473,,,77.6,M
-adniI12663,adni,philips,Intera,1.5,12663.0,369,,,76.1,M
-adniI13393,adni,philips,Intera,1.5,13393.0,298,,,76.6,M
-adniI131757,adni,philips,Achieva,1.5,131757.0,1009,,,78.0,M
-adniI138396,adni,philips,Intera,1.5,138396.0,113,,,78.3,M
-adniI495348,adni,siemens,TrioTim,3.0,495348.0,4037,,,79.8,M
-adniI395717,adni,siemens,TrioTim,3.0,395717.0,4278,,,77.1,M
-adniI331952,adni,siemens,TrioTim,3.0,331952.0,4921,,,66.8,M
-adniI274494,adni,siemens,Verio,3.0,274494.0,4424,,,66.2,F
-adniI1457246,adni,siemens,Skyra,3.0,1457246.0,6969,,,68.5,M
-adniI30898,adni,siemens,Symphony,1.5,30898.0,534,,,63.5,M
-adniI31788,adni,siemens,Allegra,2.9,31788.0,493,,,78.2,M
-adniI942773,adni,siemens,Prisma_fit,3.0,942773.0,4448,,,69.7,F
-adniI700093,adni,siemens,Skyra,3.0,700093.0,4587,,,69.9,F
-adniI137512,adni,siemens,TrioTim,3.0,137512.0,1123,,,78.2,F
-adniI146353,adni,siemens,Avanto,1.5,146353.0,545,,,75.0,M
-adniI13560,adni,siemens,Trio,2.9,13560.0,31,,,78.3,F
-adniI361462,adni,siemens,TrioTim,3.0,361462.0,4320,,,72.1,F
-adniI1294355,adni,siemens,Prisma_fit,3.0,1294355.0,6200,,,74.3,M
-adniI78417,adni,siemens,Sonata,1.5,78417.0,22,,,65.3,M
-adniI41010,adni,siemens,Sonata,1.5,41010.0,257,,,79.5,F
-adniI341152,adni,siemens,TrioTim,3.0,341152.0,4599,,,60.6,M
-adniI290031,adni,siemens,TrioTim,3.0,290031.0,4410,,,69.4,F
-adniI276963,adni,siemens,Verio,3.0,276963.0,4391,,,74.6,M
-adniI756261,adni,siemens,Verio,3.0,756261.0,4401,,,72.1,F
-adniI80814,adni,siemens,Sonata,1.5,80814.0,1276,,,72.6,F
-adniI37937,adni,siemens,Allegra,2.9,37937.0,525,,,70.8,F
-adniI255713,adni,siemens,TrioTim,3.0,255713.0,4075,,,73.7,M
-adniI9362,adni,siemens,Sonata,1.5,9362.0,59,,,71.0,F
-adniI331950,adni,siemens,TrioTim,3.0,331950.0,4921,,,66.8,M
-adniI1335384,adni,siemens,Skyra_fit,3.0,1335384.0,6113,,,79.0,M
-adniI1018186,adni,siemens,Verio,3.0,1018186.0,6416,,,69.3,F
-adniI273192,adni,siemens,TrioTim,3.0,273192.0,4427,,,71.4,M
-adniI267459,adni,siemens,TrioTim,3.0,267459.0,4266,,,70.0,F
-adniI1469708,adni,siemens,Prisma_fit,3.0,1469708.0,6907,,,66.4,M
-adniI240491,adni,siemens,TrioTim,3.0,240491.0,4080,,,78.7,F
-adniI91522,adni,siemens,SonataVision,1.5,91522.0,1123,,,77.2,F
-adniI323434,adni,siemens,Skyra,3.0,323434.0,4632,,,68.1,M
-adniI334194,adni,siemens,TrioTim,3.0,334194.0,4208,,,79.3,M
-adniI294193,adni,siemens,TrioTim,3.0,294193.0,4196,,,79.1,M
-adniI102942,adni,siemens,Avanto,1.5,102942.0,97,,,75.1,F
-adniI895056,adni,siemens,TrioTim,3.0,895056.0,6069,,,73.6,F
-adniI30914,adni,siemens,Sonata,1.5,30914.0,23,,,72.9,M
-adniI26218,adni,siemens,Avanto,1.5,26218.0,272,,,71.1,F
-adniI987768,adni,siemens,Prisma_fit,3.0,987768.0,6318,,,69.5,F
-adniI1040036,adni,siemens,Prisma_fit,3.0,1040036.0,6561,,,68.3,M
-adniI436266,adni,siemens,Avanto,1.5,436266.0,1242,,,72.3,F
-adniI423071,adni,siemens,TrioTim,3.0,423071.0,4607,,,58.3,F
-adniI348239,adni,siemens,TrioTim,3.0,348239.0,4382,,,77.0,F
-adniI416808,adni,siemens,Skyra,3.0,416808.0,4482,,,79.4,F
-adniI23927,adni,siemens,Avanto,1.5,23927.0,818,,,74.1,F
-adniI1006806,adni,siemens,TrioTim,3.0,1006806.0,6386,,,69.0,F
-adniI251751,adni,siemens,Verio,3.0,251751.0,4151,,,72.4,M
-adniI1355445,adni,siemens,Skyra_fit,3.0,1355445.0,6251,,,68.1,F
-adniI255946,adni,siemens,Verio,3.0,255946.0,4076,,,72.9,F
-adniI870102,adni,siemens,Prisma,3.0,870102.0,6031,,,67.3,F
-adniI103236,adni,siemens,Symphony,1.5,103236.0,352,,,79.2,F
-adniI133850,adni,siemens,Trio,3.0,133850.0,1190,,,78.7,F
-adniI1031685,adni,siemens,Prisma_fit,3.0,1031685.0,6492,,,69.9,F
-adniI308587,adni,siemens,Verio,3.0,308587.0,4337,,,72.6,M
-adniI368465,adni,siemens,TrioTim,3.0,368465.0,4552,,,64.4,M
-adniI138303,adni,siemens,Symphony,1.5,138303.0,166,,,75.6,F
-adniI152575,adni,siemens,Avanto,1.5,152575.0,522,,,73.1,M
-adniI44183,adni,siemens,Sonata,1.5,44183.0,130,,,74.3,M
-adniI966802,adni,siemens,Verio,3.0,966802.0,6199,,,69.2,M
-adniI336773,adni,siemens,Skyra,3.0,336773.0,4520,,,68.6,M
-adniI1496150,adni,siemens,Prisma_fit,3.0,1496150.0,6797,,,69.3,F
-adniI1264670,adni,siemens,Verio,3.0,1264670.0,6116,,,71.7,F
-adniI512365,adni,siemens,TrioTim,3.0,512365.0,4856,,,68.3,F
-adniI42711,adni,siemens,Symphony,1.5,42711.0,767,,,73.7,F
-adniI90054,adni,siemens,Trio,3.0,90054.0,1249,,,71.9,F
-adniI42154,adni,siemens,Trio,2.9,42154.0,1249,,,71.0,F
-adniI404020,adni,siemens,TrioTim,3.0,404020.0,4427,,,73.5,M
-adniI160672,adni,siemens,Allegra,3.0,160672.0,1098,,,75.1,F
-adniI16437,adni,siemens,Allegra,2.9,16437.0,488,,,71.0,F
-adniI107615,adni,siemens,Trio,3.0,107615.0,382,,,77.7,F
-adniI1576822,adni,siemens,Verio,3.0,1576822.0,6415,,,76.0,F
-adniI421137,adni,siemens,Biograph_mMR,3.0,421137.0,4580,,,71.9,F
-adniI1336238,adni,siemens,Prisma_fit,3.0,1336238.0,6454,,,74.6,F
-adniI346460,adni,siemens,Verio,3.0,346460.0,4337,,,73.1,M
-adniI321505,adni,siemens,Skyra,3.0,321505.0,4878,,,72.9,F
-adniI1214909,adni,siemens,Prisma,3.0,1214909.0,6187,,,75.7,F
-adniI91523,adni,siemens,SonataVision,1.5,91523.0,1123,,,77.2,F
-adniI337413,adni,siemens,TrioTim,3.0,337413.0,4196,,,79.6,M
-adniI1043685,adni,siemens,TrioTim,3.0,1043685.0,4224,,,77.3,M
-adniI81121,adni,siemens,Trio,3.0,81121.0,1123,,,76.9,F
-adniI1591453,adni,siemens,Verio,3.0,1591453.0,7072,,,62.7,F
-adniI148487,adni,siemens,Avanto,1.5,148487.0,479,,,76.7,F
-adniI339110,adni,siemens,TrioTim,3.0,339110.0,89,,,71.9,M
-adniI273678,adni,siemens,TrioTim,3.0,273678.0,4428,,,72.6,M
-adniI354998,adni,siemens,Verio,3.0,354998.0,4391,,,75.6,M
-adniI395726,adni,siemens,TrioTim,3.0,395726.0,4278,,,77.1,M
-adniI8959,adni,siemens,Avanto,1.5,8959.0,48,,,78.4,M
-adniI113112,adni,siemens,Symphony,1.5,113112.0,601,,,78.8,F
-adniI1136571,adni,siemens,Verio,3.0,1136571.0,6178,,,67.1,F
-adniI334207,adni,siemens,Skyra,3.0,334207.0,4482,,,77.9,F
-adniI1227239,adni,siemens,Prisma_fit,3.0,1227239.0,6575,,,74.5,M
-adniI881980,adni,siemens,Prisma_fit,3.0,881980.0,4277,,,77.3,F
-adniI1366966,adni,siemens,Skyra,3.0,1366966.0,4520,,,76.6,M
-adniI63674,adni,siemens,Symphony,1.5,63674.0,672,,,63.2,F
-adniI323439,adni,siemens,Skyra,3.0,323439.0,4632,,,68.1,M
-adniI351092,adni,siemens,TrioTim,3.0,351092.0,4164,,,74.0,M
-adniI354375,adni,siemens,TrioTim,3.0,354375.0,4427,,,72.5,M
-adniI982444,adni,siemens,TrioTim,3.0,982444.0,4483,,,75.8,F
-adniI436671,adni,siemens,TrioTim,3.0,436671.0,4586,,,78.2,M
-adniI14612,adni,siemens,Symphony,1.5,14612.0,534,,,62.9,M
-adniI1016587,adni,siemens,Prisma_fit,3.0,1016587.0,6472,,,67.6,F
-adniI979816,adni,siemens,Prisma,3.0,979816.0,6250,,,72.0,F
-adniI145242,adni,siemens,Avanto,1.5,145242.0,555,,,79.6,M
-abideI329381,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,329381.0,50030,,,25.1,M
-abideI328971,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328971.0,50039,,,30.7,M
-abideI328888,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328888.0,50040,,,24.6,M
-abideI328896,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328896.0,50041,,,27.9,M
-abideI328821,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328821.0,50042,,,33.2,M
-abideI328374,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328374.0,50046,,,20.6,M
-abideI329195,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,329195.0,50052,,,33.2,M
-abideI328370,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328370.0,50058,,,23.1,M
-abideI329321,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,329321.0,50059,,,21.2,F
-abideI328442,abide,siemens,MAGNETOM Allegra syngo MR A30,3.0,328442.0,50060,,,20.3,M
-abideI328592,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328592.0,50108,,,21.0,M
-abideI328797,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328797.0,50109,,,20.0,M
-abideI329004,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329004.0,50114,,,20.0,F
-abideI329064,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329064.0,50115,,,23.0,M
-abideI328338,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328338.0,50117,,,21.0,M
-abideI330289,abide,philips,Achieva 3T,3.0,330289.0,50260,,,20.3,M
-abideI330292,abide,philips,Achieva 3T,3.0,330292.0,50261,,,20.1,M
-abideI330340,abide,philips,Achieva 3T,3.0,330340.0,50262,,,21.3,M
-abideI330296,abide,philips,Achieva 3T,3.0,330296.0,50264,,,25.7,M
-abideI328348,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328348.0,50439,,,22.6,M
-abideI329335,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329335.0,50440,,,23.9,M
-abideI328784,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328784.0,50441,,,27.6,M
-abideI328487,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328487.0,50442,,,26.9,M
-abideI329464,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329464.0,50444,,,25.0,M
-abideI329430,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329430.0,50446,,,27.3,M
-abideI328990,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328990.0,50450,,,21.1,M
-abideI328670,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328670.0,50452,,,30.0,M
-abideI329465,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329465.0,50455,,,31.3,M
-abideI328542,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328542.0,50457,,,34.1,M
-abideI329222,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329222.0,50458,,,26.1,M
-abideI328391,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328391.0,50462,,,24.7,M
-abideI329078,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329078.0,50463,,,28.4,M
-abideI329265,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329265.0,50465,,,34.0,M
-abideI329341,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329341.0,50466,,,39.3,M
-abideI328651,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328651.0,50468,,,39.4,M
-abideI328399,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328399.0,50469,,,28.6,M
-abideI329012,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329012.0,50471,,,25.0,M
-abideI329188,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329188.0,50472,,,22.1,M
-abideI329457,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329457.0,50473,,,22.4,M
-abideI329317,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329317.0,50474,,,22.0,M
-abideI329178,abide,philips,INTERA 3T,3.0,329178.0,50682,,,23.0,M
-abideI329215,abide,philips,INTERA 3T,3.0,329215.0,50683,,,24.0,M
-abideI329413,abide,philips,INTERA 3T,3.0,329413.0,50685,,,23.0,M
-abideI328322,abide,philips,INTERA 3T,3.0,328322.0,50687,,,22.0,M
-abideI329268,abide,philips,INTERA 3T,3.0,329268.0,50688,,,21.0,M
-abideI328408,abide,philips,INTERA 3T,3.0,328408.0,50691,,,22.0,M
-abideI329282,abide,philips,INTERA 3T,3.0,329282.0,50692,,,22.0,M
-abideI328538,abide,philips,INTERA 3T,3.0,328538.0,50698,,,28.0,M
-abideI329029,abide,philips,INTERA 3T,3.0,329029.0,50699,,,21.0,M
-abideI328554,abide,philips,INTERA 3T,3.0,328554.0,50703,,,29.0,M
-abideI329418,abide,philips,INTERA 3T,3.0,329418.0,50706,,,22.0,M
-abideI329116,abide,philips,INTERA 3T,3.0,329116.0,50707,,,22.0,M
-abideI328750,abide,philips,INTERA 3T,3.0,328750.0,50709,,,25.0,M
-abideI329159,abide,philips,INTERA 3T,3.0,329159.0,50710,,,27.0,M
-abideI329216,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329216.0,51057,,,21.6,F
-abideI328558,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328558.0,51058,,,22.1,F
-abideI328677,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328677.0,51059,,,22.8,F
-abideI328329,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328329.0,51060,,,22.7,F
-abideI328395,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328395.0,51061,,,27.0,F
-abideI328512,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328512.0,51062,,,27.8,F
-abideI329005,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329005.0,51063,,,29.1,F
-abideI329331,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329331.0,51067,,,23.6,M
-abideI328725,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328725.0,51068,,,31.8,M
-abideI328372,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328372.0,51113,,,22.4,M
-abideI328706,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328706.0,51114,,,22.5,M
-abideI328477,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328477.0,51115,,,22.8,M
-abideI329338,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329338.0,51116,,,25.3,M
-abideI328683,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328683.0,51117,,,28.2,M
-abideI328832,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328832.0,51118,,,29.0,M
-abideI329346,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329346.0,51119,,,30.7,M
-abideI330304,abide,philips,Achieva 3T,3.0,330304.0,51132,,,24.8,M
-abideI329155,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329155.0,51146,,,20.0,M
-abideI328838,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328838.0,51147,,,20.0,M
-abideI328957,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328957.0,51148,,,20.3,M
-abideI329434,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329434.0,51149,,,20.6,M
-abideI329121,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329121.0,51150,,,22.8,M
-abideI328810,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328810.0,51151,,,23.1,M
-abideI329440,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329440.0,51152,,,23.4,M
-abideI329135,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329135.0,51153,,,26.2,M
-abideI329329,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329329.0,51154,,,30.1,M
-abideI328960,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,328960.0,51155,,,30.8,M
-abideI329140,abide,siemens,MAGNETOM Allegra syngo MR 2004A,3.0,329140.0,51156,,,21.1,M
-abideI329044,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329044.0,51332,,,23.0,M
-abideI328590,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328590.0,51333,,,24.0,M
-abideI329372,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329372.0,51334,,,27.0,M
-abideI328624,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328624.0,51335,,,23.0,M
-abideI328531,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328531.0,51336,,,26.0,M
-abideI329163,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329163.0,51338,,,30.0,M
-abideI328834,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328834.0,51339,,,29.0,M
-abideI328332,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328332.0,51340,,,29.0,M
-abideI329021,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329021.0,51341,,,29.0,M
-abideI329042,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329042.0,51342,,,23.0,M
-abideI328584,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328584.0,51343,,,30.0,M
-abideI328807,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328807.0,51344,,,22.0,M
-abideI329351,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329351.0,51345,,,35.0,M
-abideI329278,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329278.0,51346,,,25.0,M
-abideI328456,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328456.0,51347,,,24.0,M
-abideI328459,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328459.0,51362,,,33.0,M
-abideI328544,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328544.0,51363,,,32.0,M
-abideI328905,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328905.0,51364,,,26.0,M
-abideI328874,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328874.0,51365,,,23.0,M
-abideI329378,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329378.0,51366,,,32.0,F
-abideI328404,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328404.0,51367,,,21.0,M
-abideI328949,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328949.0,51368,,,28.0,F
-abideI328812,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328812.0,51369,,,32.0,M
-abideI328472,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,328472.0,51370,,,32.0,F
-abideI329327,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329327.0,51371,,,48.0,M
-abideI329257,abide,siemens,MAGNETOM Verio syngo MR B17,3.0,329257.0,51372,,,46.0,F
-abideI329010,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329010.0,51475,,,44.2,M
-abideI328824,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328824.0,51476,,,39.3,M
-abideI329043,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329043.0,51477,,,42.5,M
-abideI328365,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328365.0,51479,,,20.0,F
-abideI329360,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329360.0,51480,,,20.8,F
-abideI328902,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328902.0,51481,,,27.9,M
-abideI329421,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329421.0,51482,,,21.1,F
-abideI328647,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328647.0,51483,,,20.9,M
-abideI329324,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329324.0,51484,,,23.6,M
-abideI329000,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329000.0,51485,,,23.9,M
-abideI328935,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328935.0,51486,,,22.0,M
-abideI329158,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329158.0,51488,,,23.3,M
-abideI328977,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328977.0,51489,,,34.1,M
-abideI328403,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328403.0,51490,,,44.1,M
-abideI329218,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,329218.0,51491,,,56.2,M
-abideI328455,abide,siemens,MAGNETOM TrioTim Syngo MR B17,3.0,328455.0,51493,,,29.2,F
-abideI328448,abide,philips,Intera,3.0,328448.0,51556,,,20.0,M
-abideI328390,abide,philips,Intera,3.0,328390.0,51557,,,26.0,M
-abideI329352,abide,philips,Intera,3.0,329352.0,51558,,,27.0,M
-abideI328379,abide,philips,Intera,3.0,328379.0,51559,,,27.0,M
-abideI329314,abide,philips,Intera,3.0,329314.0,51560,,,27.0,M
-abideI329227,abide,philips,Intera,3.0,329227.0,51561,,,36.0,M
-abideI328445,abide,philips,Intera,3.0,328445.0,51562,,,37.0,M
-abideI328849,abide,philips,Intera,3.0,328849.0,51563,,,38.0,M
-abideI328801,abide,philips,Intera,3.0,328801.0,51564,,,39.0,M
-abideI329150,abide,philips,Intera,3.0,329150.0,51565,,,39.0,M
-abideI329127,abide,philips,Intera,3.0,329127.0,51566,,,41.0,M
-abideI329120,abide,philips,Intera,3.0,329120.0,51567,,,34.0,M
-abideI328478,abide,philips,Intera,3.0,328478.0,51568,,,37.0,M
-abideI329230,abide,philips,Intera,3.0,329230.0,51569,,,36.0,M
-abideI329382,abide,philips,Intera,3.0,329382.0,51570,,,42.0,M
-ppmiI1493049,ppmi,philips,Achieva dStream,3.0,1493049.0,100890,,,78.2,M
-ppmiI1496277,ppmi,philips,Ingenia,3.0,1496277.0,101039,,,63.2,F
-ppmiI1495885,ppmi,siemens,Verio,3.0,1495885.0,101747,,,61.9,M
-ppmiI1519053,ppmi,siemens,Verio,3.0,1519053.0,106127,,,53.6,F
-ppmiI1519089,ppmi,philips,Ingenia,3.0,1519089.0,110686,,,69.4,M
-ppmiI1519096,ppmi,siemens,Prisma,3.0,1519096.0,113369,,,69.2,M
-ppmiI1537614,ppmi,philips,Achieva dStream,3.0,1537614.0,120545,,,79.7,M
-ppmiI1561813,ppmi,siemens,Prisma,3.0,1561813.0,130028,,,63.3,F
-ppmiI1548733,ppmi,philips,Ingenia,3.0,1548733.0,130190,,,50.7,F
-ppmiI1616745,ppmi,siemens,MAGNETOM Vida,3.0,1616745.0,137499,,,52.2,M
-ppmiI1575216,ppmi,siemens,Verio,3.0,1575216.0,140451,,,46.3,M
-ppmiI1616839,ppmi,philips,Ingenia,3.0,1616839.0,141714,,,75.7,F
-ppmiI1581574,ppmi,philips,Ingenia,3.0,1581574.0,141893,,,71.2,F
-ppmiI1581575,ppmi,philips,Ingenia,3.0,1581575.0,141893,,,71.2,F
-ppmiI1582625,ppmi,siemens,Prisma,3.0,1582625.0,149716,,,72.7,F
-ppmiI1652981,ppmi,philips,Achieva dStream,3.0,1652981.0,156459,,,61.3,F
-ppmiI1621890,ppmi,siemens,Skyra,3.0,1621890.0,157434,,,59.6,F
-ppmiI1678671,ppmi,philips,Achieva dStream,3.0,1678671.0,187759,,,76.0,M
-ppmiI223774,ppmi,philips,Achieva,1.5,223774.0,3053,,,68.6,M
-ppmiI223786,ppmi,philips,Achieva,1.5,223786.0,3055,,,68.8,F
-ppmiI224530,ppmi,philips,Achieva,1.5,224530.0,3057,,,60.0,F
-ppmiI232099,ppmi,philips,Achieva,1.5,232099.0,3063,,,40.3,F
-ppmiI243198,ppmi,philips,Achieva,1.5,243198.0,3064,,,60.5,F
-ppmiI260288,ppmi,philips,Achieva,1.5,260288.0,3069,,,54.0,F
-ppmiI260294,ppmi,philips,Achieva,1.5,260294.0,3072,,,47.2,F
-ppmiI226398,ppmi,siemens,TrioTim,3.0,226398.0,3104,,,72.0,M
-ppmiI301552,ppmi,siemens,TrioTim,3.0,301552.0,3104,,,73.2,M
-ppmiI235251,ppmi,siemens,TrioTim,3.0,235251.0,3106,,,70.2,F
-ppmiI301564,ppmi,siemens,TrioTim,3.0,301564.0,3106,,,71.3,F
-ppmiI491581,ppmi,siemens,TrioTim,3.0,491581.0,3106,,,74.2,F
-ppmiI243563,ppmi,siemens,TrioTim,3.0,243563.0,3112,,,62.7,F
-ppmiI315614,ppmi,siemens,TrioTim,3.0,315614.0,3112,,,63.6,F
-ppmiI253901,ppmi,siemens,TrioTim,3.0,253901.0,3114,,,63.9,F
-ppmiI353464,ppmi,siemens,TrioTim,3.0,353464.0,3114,,,64.9,F
-ppmiI253995,ppmi,siemens,TrioTim,3.0,253995.0,3115,,,61.3,M
-ppmiI337535,ppmi,siemens,TrioTim,3.0,337535.0,3115,,,62.2,M
-ppmiI243571,ppmi,siemens,TrioTim,3.0,243571.0,3151,,,57.5,M
-ppmiI296443,ppmi,siemens,TrioTim,3.0,296443.0,3151,,,58.6,M
-ppmiI243615,ppmi,siemens,TrioTim,3.0,243615.0,3156,,,69.7,M
-ppmiI243701,ppmi,siemens,TrioTim,3.0,243701.0,3157,,,64.1,F
-ppmiI301582,ppmi,siemens,TrioTim,3.0,301582.0,3157,,,65.2,F
-ppmiI243732,ppmi,siemens,TrioTim,3.0,243732.0,3160,,,79.8,M
-ppmiI249254,ppmi,siemens,TrioTim,3.0,249254.0,3161,,,44.8,M
-ppmiI334591,ppmi,siemens,TrioTim,3.0,334591.0,3161,,,45.9,M
-ppmiI243774,ppmi,siemens,TrioTim,3.0,243774.0,3165,,,58.9,F
-ppmiI307201,ppmi,siemens,TrioTim,3.0,307201.0,3165,,,59.8,F
-ppmiI275545,ppmi,siemens,TrioTim,3.0,275545.0,3169,,,57.0,M
-ppmiI351188,ppmi,siemens,TrioTim,3.0,351188.0,3169,,,58.0,M
-ppmiI275553,ppmi,siemens,TrioTim,3.0,275553.0,3171,,,61.3,M
-ppmiI369349,ppmi,siemens,TrioTim,3.0,369349.0,3171,,,62.5,M
-ppmiI282107,ppmi,siemens,TrioTim,3.0,282107.0,3172,,,70.0,M
-ppmiI357674,ppmi,siemens,TrioTim,3.0,357674.0,3172,,,71.1,M
-ppmiI367304,ppmi,siemens,TrioTim,3.0,367304.0,3188,,,70.7,M
-ppmiI468920,ppmi,siemens,TrioTim,3.0,468920.0,3188,,,72.3,M
-ppmiI372986,ppmi,siemens,TrioTim,3.0,372986.0,3191,,,66.3,F
-ppmiI436379,ppmi,siemens,TrioTim,3.0,436379.0,3191,,,67.4,F
-ppmiI226405,ppmi,siemens,TrioTim,3.0,226405.0,3300,,,52.1,M
-ppmiI344327,ppmi,siemens,TrioTim,3.0,344327.0,3300,,,53.1,M
-ppmiI226414,ppmi,siemens,TrioTim,3.0,226414.0,3301,,,52.4,M
-ppmiI301592,ppmi,siemens,TrioTim,3.0,301592.0,3301,,,53.4,M
-ppmiI378250,ppmi,siemens,TrioTim,3.0,378250.0,3301,,,54.6,M
-ppmiI498900,ppmi,siemens,TrioTim,3.0,498900.0,3301,,,56.5,M
-ppmiI282114,ppmi,siemens,TrioTim,3.0,282114.0,3310,,,64.9,M
-ppmiI369418,ppmi,siemens,TrioTim,3.0,369418.0,3310,,,65.9,M
-ppmiI305951,ppmi,siemens,TrioTim,3.0,305951.0,3316,,,74.7,M
-ppmiI423724,ppmi,siemens,TrioTim,3.0,423724.0,3316,,,76.6,M
-ppmiI374887,ppmi,siemens,TrioTim,3.0,374887.0,3318,,,65.7,M
-ppmiI440165,ppmi,siemens,TrioTim,3.0,440165.0,3318,,,66.7,M
-ppmiI315644,ppmi,siemens,TrioTim,3.0,315644.0,3318,,,64.8,M
-ppmiI315651,ppmi,siemens,TrioTim,3.0,315651.0,3320,,,56.0,M
-ppmiI249425,ppmi,siemens,TrioTim,3.0,249425.0,3350,,,78.9,M
-ppmiI296478,ppmi,siemens,TrioTim,3.0,296478.0,3350,,,79.9,M
-ppmiI508248,ppmi,siemens,TrioTim,3.0,508248.0,3351,,,71.7,M
-ppmiI249434,ppmi,siemens,TrioTim,3.0,249434.0,3353,,,56.0,F
-ppmiI296488,ppmi,siemens,TrioTim,3.0,296488.0,3353,,,57.0,F
-ppmiI515217,ppmi,siemens,TrioTim,3.0,515217.0,3353,,,60.2,F
-ppmiI249440,ppmi,siemens,TrioTim,3.0,249440.0,3355,,,32.3,M
-ppmiI369468,ppmi,siemens,TrioTim,3.0,369468.0,3355,,,33.4,M
-ppmiI249447,ppmi,siemens,TrioTim,3.0,249447.0,3357,,,44.0,M
-ppmiI296498,ppmi,siemens,TrioTim,3.0,296498.0,3357,,,44.9,M
-ppmiI515225,ppmi,siemens,TrioTim,3.0,515225.0,3357,,,48.4,M
-ppmiI249449,ppmi,siemens,TrioTim,3.0,249449.0,3358,,,48.9,M
-ppmiI307218,ppmi,siemens,TrioTim,3.0,307218.0,3358,,,50.0,M
-ppmiI243242,ppmi,siemens,TrioTim,3.0,243242.0,3361,,,56.3,F
-ppmiI315628,ppmi,siemens,TrioTim,3.0,315628.0,3361,,,57.4,F
-ppmiI581043,ppmi,siemens,TrioTim,3.0,581043.0,3361,,,60.8,F
-ppmiI581047,ppmi,siemens,TrioTim,3.0,581047.0,3361,,,60.8,F
-ppmiI270008,ppmi,siemens,TrioTim,3.0,270008.0,3362,,,41.6,F
-ppmiI265352,ppmi,siemens,TrioTim,3.0,265352.0,3368,,,53.3,F
-ppmiI369477,ppmi,siemens,TrioTim,3.0,369477.0,3368,,,54.6,F
-ppmiI259639,ppmi,siemens,TrioTim,3.0,259639.0,3369,,,44.0,M
-ppmiI337603,ppmi,siemens,TrioTim,3.0,337603.0,3369,,,44.9,M
-ppmiI544621,ppmi,siemens,TrioTim,3.0,544621.0,3369,,,48.1,M
-ppmiI282121,ppmi,siemens,TrioTim,3.0,282121.0,3370,,,40.2,M
-ppmiI367344,ppmi,siemens,TrioTim,3.0,367344.0,3389,,,71.5,M
-ppmiI417039,ppmi,siemens,TrioTim,3.0,417039.0,3389,,,72.5,M
-ppmiI374736,ppmi,siemens,TrioTim,3.0,374736.0,3390,,,66.0,M
-ppmiI436381,ppmi,siemens,TrioTim,3.0,436381.0,3390,,,67.1,M
-ppmiI224191,ppmi,philips,Gyroscan NT,1.5,224191.0,3450,,,51.7,M
-ppmiI224215,ppmi,philips,Gyroscan NT,1.5,224215.0,3452,,,64.3,F
-ppmiI224244,ppmi,philips,Gyroscan NT,1.5,224244.0,3453,,,59.7,F
-ppmiI232103,ppmi,philips,Gyroscan NT,1.5,232103.0,3457,,,63.1,F
-ppmiI264680,ppmi,philips,Gyroscan NT,1.5,264680.0,3464,,,51.2,M
-ppmiI310306,ppmi,philips,Gyroscan NT,1.5,310306.0,3466,,,48.3,M
-ppmiI287580,ppmi,philips,Gyroscan NT,1.5,287580.0,3468,,,57.4,M
-ppmiI362002,ppmi,philips,Gyroscan NT,1.5,362002.0,3478,,,76.9,M
-ppmiI362007,ppmi,philips,Gyroscan NT,1.5,362007.0,3479,,,57.8,M
-ppmiI362010,ppmi,philips,Gyroscan NT,1.5,362010.0,3480,,,72.3,F
-ppmiI362013,ppmi,philips,Gyroscan NT,1.5,362013.0,3481,,,62.6,M
-ppmiI368579,ppmi,philips,Achieva,3.0,368579.0,3503,,,31.9,F
-ppmiI374091,ppmi,philips,Achieva,3.0,374091.0,3515,,,73.6,F
-ppmiI260386,ppmi,philips,Achieva,3.0,260386.0,3517,,,45.5,M
-ppmiI264690,ppmi,philips,Achieva,3.0,264690.0,3518,,,72.9,M
-ppmiI374097,ppmi,philips,Achieva,3.0,374097.0,3521,,,64.6,M
-ppmiI374114,ppmi,philips,Achieva,3.0,374114.0,3523,,,63.7,M
-ppmiI374118,ppmi,philips,Achieva,3.0,374118.0,3525,,,55.6,M
-ppmiI282830,ppmi,philips,Achieva,3.0,282830.0,3526,,,61.4,M
-ppmiI282833,ppmi,philips,Achieva,3.0,282833.0,3527,,,62.0,M
-ppmiI363973,ppmi,philips,Achieva,3.0,363973.0,3541,,,65.7,M
-ppmiI362040,ppmi,philips,Achieva,3.0,362040.0,3544,,,69.9,M
-ppmiI226425,ppmi,siemens,TrioTim,3.0,226425.0,3551,,,64.0,M
-ppmiI296522,ppmi,siemens,TrioTim,3.0,296522.0,3551,,,65.1,M
-ppmiI548982,ppmi,siemens,TrioTim,3.0,548982.0,3551,,,69.0,M
-ppmiI548986,ppmi,siemens,TrioTim,3.0,548986.0,3551,,,69.0,M
-ppmiI249264,ppmi,siemens,TrioTim,3.0,249264.0,3554,,,75.4,M
-ppmiI307276,ppmi,siemens,TrioTim,3.0,307276.0,3554,,,76.5,M
-ppmiI482316,ppmi,siemens,TrioTim,3.0,482316.0,3554,,,79.5,M
-ppmiI238001,ppmi,siemens,TrioTim,3.0,238001.0,3555,,,39.8,M
-ppmiI265355,ppmi,siemens,TrioTim,3.0,265355.0,3563,,,60.0,M
-ppmiI344357,ppmi,siemens,TrioTim,3.0,344357.0,3563,,,61.3,M
-ppmiI548990,ppmi,siemens,TrioTim,3.0,548990.0,3563,,,64.3,M
-ppmiI249270,ppmi,siemens,TrioTim,3.0,249270.0,3565,,,54.0,M
-ppmiI344360,ppmi,siemens,TrioTim,3.0,344360.0,3565,,,55.1,M
-ppmiI560372,ppmi,siemens,TrioTim,3.0,560372.0,3565,,,58.1,M
-ppmiI249281,ppmi,siemens,TrioTim,3.0,249281.0,3569,,,40.3,F
-ppmiI344382,ppmi,siemens,TrioTim,3.0,344382.0,3569,,,41.5,F
-ppmiI548998,ppmi,siemens,TrioTim,3.0,548998.0,3569,,,44.5,F
-ppmiI249289,ppmi,siemens,TrioTim,3.0,249289.0,3570,,,72.3,M
-ppmiI340737,ppmi,siemens,TrioTim,3.0,340737.0,3570,,,73.5,M
-ppmiI265405,ppmi,siemens,TrioTim,3.0,265405.0,3571,,,45.8,M
-ppmiI365202,ppmi,siemens,TrioTim,3.0,365202.0,3571,,,46.8,M
-ppmiI615265,ppmi,siemens,TrioTim,3.0,615265.0,3571,,,50.1,M
-ppmiI615268,ppmi,siemens,TrioTim,3.0,615268.0,3571,,,50.1,M
-ppmiI287931,ppmi,siemens,TrioTim,3.0,287931.0,3572,,,57.7,F
-ppmiI344390,ppmi,siemens,TrioTim,3.0,344390.0,3572,,,58.8,F
-ppmiI232120,ppmi,siemens,TrioTim,3.0,232120.0,3600,,,55.4,M
-ppmiI243291,ppmi,siemens,TrioTim,3.0,243291.0,3610,,,60.0,F
-ppmiI243297,ppmi,siemens,TrioTim,3.0,243297.0,3611,,,41.8,F
-ppmiI249479,ppmi,siemens,TrioTim,0.0,249479.0,3613,,,55.7,F
-ppmiI252792,ppmi,siemens,TrioTim,3.0,252792.0,3613,,,55.7,F
-ppmiI249482,ppmi,siemens,TrioTim,3.0,249482.0,3614,,,62.3,M
-ppmiI260391,ppmi,siemens,TrioTim,3.0,260391.0,3615,,,66.2,M
-ppmiI275299,ppmi,siemens,TrioTim,3.0,275299.0,3620,,,69.2,M
-ppmiI287603,ppmi,siemens,TrioTim,3.0,287603.0,3624,,,61.0,M
-ppmiI352220,ppmi,siemens,TrioTim,3.0,352220.0,3627,,,59.1,M
-ppmiI362045,ppmi,siemens,TrioTim,3.0,362045.0,3635,,,56.7,M
-ppmiI362046,ppmi,siemens,TrioTim,3.0,362046.0,3636,,,64.2,M
-ppmiI363979,ppmi,siemens,TrioTim,3.0,363979.0,3637,,,57.2,M
-ppmiI353402,ppmi,siemens,TrioTim,3.0,353402.0,3750,,,53.0,M
-ppmiI353477,ppmi,siemens,TrioTim,3.0,353477.0,3750,,,54.4,M
-ppmiI269524,ppmi,siemens,TrioTim,3.0,269524.0,3756,,,65.4,M
-ppmiI353588,ppmi,siemens,TrioTim,3.0,353588.0,3756,,,66.4,M
-ppmiI282151,ppmi,siemens,TrioTim,3.0,282151.0,3759,,,54.8,F
-ppmiI357722,ppmi,siemens,TrioTim,3.0,357722.0,3759,,,55.9,F
-ppmiI288122,ppmi,siemens,TrioTim,3.0,288122.0,3765,,,68.9,F
-ppmiI353654,ppmi,siemens,TrioTim,3.0,353654.0,3765,,,69.9,F
-ppmiI288146,ppmi,siemens,TrioTim,3.0,288146.0,3767,,,52.5,F
-ppmiI357747,ppmi,siemens,TrioTim,3.0,357747.0,3767,,,53.6,F
-ppmiI301540,ppmi,siemens,TrioTim,3.0,301540.0,3768,,,60.0,M
-ppmiI357765,ppmi,siemens,TrioTim,3.0,357765.0,3768,,,61.0,M
-ppmiI301546,ppmi,siemens,TrioTim,3.0,301546.0,3769,,,71.0,M
-ppmiI362613,ppmi,siemens,TrioTim,3.0,362613.0,3769,,,72.1,M
-ppmiI323005,ppmi,siemens,TrioTim,3.0,323005.0,3779,,,56.5,M
-ppmiI382354,ppmi,siemens,TrioTim,3.0,382354.0,3779,,,57.5,M
-ppmiI365108,ppmi,siemens,TrioTim,3.0,365108.0,3803,,,69.2,F
-ppmiI340756,ppmi,siemens,TrioTim,3.0,340756.0,3803,,,70.2,F
-ppmiI269556,ppmi,siemens,TrioTim,3.0,269556.0,3804,,,60.1,F
-ppmiI269563,ppmi,siemens,TrioTim,3.0,269563.0,3805,,,56.2,F
-ppmiI340761,ppmi,siemens,TrioTim,3.0,340761.0,3805,,,57.2,F
-ppmiI269566,ppmi,siemens,TrioTim,3.0,269566.0,3806,,,59.2,F
-ppmiI340769,ppmi,siemens,TrioTim,3.0,340769.0,3806,,,60.2,F
-ppmiI269570,ppmi,siemens,TrioTim,3.0,269570.0,3807,,,73.2,F
-ppmiI340795,ppmi,siemens,TrioTim,3.0,340795.0,3807,,,74.2,F
-ppmiI269579,ppmi,siemens,TrioTim,3.0,269579.0,3809,,,53.3,F
-ppmiI269591,ppmi,siemens,TrioTim,3.0,269591.0,3811,,,67.3,M
-ppmiI344401,ppmi,siemens,TrioTim,3.0,344401.0,3811,,,68.3,M
-ppmiI269597,ppmi,siemens,TrioTim,3.0,269597.0,3812,,,64.4,F
-ppmiI337606,ppmi,siemens,TrioTim,3.0,337606.0,3812,,,65.3,F
-ppmiI275576,ppmi,siemens,TrioTim,3.0,275576.0,3813,,,65.4,M
-ppmiI344403,ppmi,siemens,TrioTim,3.0,344403.0,3813,,,66.4,M
-ppmiI340645,ppmi,siemens,TrioTim,3.0,340645.0,3816,,,64.5,M
-ppmiI357779,ppmi,siemens,TrioTim,3.0,357779.0,3816,,,65.5,M
-ppmiI340648,ppmi,siemens,TrioTim,3.0,340648.0,3817,,,73.6,M
-ppmiI362630,ppmi,siemens,TrioTim,3.0,362630.0,3817,,,74.6,M
-ppmiI238036,ppmi,siemens,Verio,3.0,238036.0,3850,,,50.3,F
-ppmiI340804,ppmi,siemens,Verio,3.0,340804.0,3850,,,51.4,F
-ppmiI395241,ppmi,siemens,Verio,3.0,395241.0,3851,,,54.1,F
-ppmiI340809,ppmi,siemens,Verio,3.0,340809.0,3851,,,55.3,F
-ppmiI440272,ppmi,siemens,Verio,3.0,440272.0,3851,,,55.3,F
-ppmiI393535,ppmi,siemens,Verio,3.0,393535.0,3851,,,56.1,F
-ppmiI243810,ppmi,siemens,Verio,3.0,243810.0,3852,,,76.8,M
-ppmiI340819,ppmi,siemens,Verio,3.0,340819.0,3852,,,77.9,M
-ppmiI395247,ppmi,siemens,Verio,3.0,395247.0,3852,,,78.8,M
-ppmiI440275,ppmi,siemens,Verio,3.0,440275.0,3852,,,79.8,M
-ppmiI243816,ppmi,siemens,Verio,3.0,243816.0,3853,,,46.7,M
-ppmiI425376,ppmi,siemens,Verio,3.0,425376.0,3853,,,48.8,M
-ppmiI440278,ppmi,siemens,Verio,3.0,440278.0,3853,,,49.7,M
-ppmiI243820,ppmi,siemens,Verio,3.0,243820.0,3854,,,30.6,M
-ppmiI340824,ppmi,siemens,Verio,3.0,340824.0,3854,,,31.7,M
-ppmiI395250,ppmi,siemens,Verio,3.0,395250.0,3854,,,32.6,M
-ppmiI243829,ppmi,siemens,Verio,3.0,243829.0,3855,,,48.8,F
-ppmiI395276,ppmi,siemens,Verio,3.0,395276.0,3855,,,49.9,F
-ppmiI393700,ppmi,siemens,Verio,3.0,393700.0,3855,,,50.9,F
-ppmiI395284,ppmi,siemens,Verio,3.0,395284.0,3857,,,40.6,F
-ppmiI395287,ppmi,siemens,Verio,3.0,395287.0,3857,,,41.7,F
-ppmiI414646,ppmi,siemens,Verio,3.0,414646.0,3857,,,42.7,F
-ppmiI378565,ppmi,siemens,Verio,0.0,378565.0,3859,,,59.8,M
-ppmiI395294,ppmi,siemens,Verio,3.0,395294.0,3859,,,60.8,M
-ppmiI397633,ppmi,siemens,Verio,3.0,397633.0,3859,,,61.8,M
-ppmiI275717,ppmi,siemens,TrioTim,3.0,275717.0,4004,,,65.0,F
-ppmiI340854,ppmi,siemens,TrioTim,3.0,340854.0,4004,,,65.9,F
-ppmiI288213,ppmi,siemens,TrioTim,3.0,288213.0,4010,,,42.2,M
-ppmiI340891,ppmi,siemens,TrioTim,3.0,340891.0,4010,,,43.3,M
-ppmiI334563,ppmi,siemens,TrioTim,3.0,334563.0,4018,,,63.9,M
-ppmiI365287,ppmi,siemens,TrioTim,3.0,365287.0,4018,,,65.0,M
-ppmiI367385,ppmi,siemens,TrioTim,3.0,367385.0,4032,,,68.0,M
-ppmiI417044,ppmi,siemens,TrioTim,3.0,417044.0,4032,,,69.1,M
-ppmiI356067,ppmi,siemens,Verio,3.0,356067.0,4067,,,61.6,M
-ppmiI377941,ppmi,siemens,Verio,3.0,377941.0,4085,,,66.7,M
-ppmiI507833,ppmi,siemens,Verio,3.0,507833.0,4085,,,68.8,M
-ppmiI864810,ppmi,siemens,Verio,3.0,864810.0,4085,,,70.6,M
-ppmiI864811,ppmi,siemens,Verio,3.0,864811.0,4085,,,70.6,M
-ppmiI864812,ppmi,siemens,Verio,3.0,864812.0,4085,,,70.6,M
-ppmiI1044936,ppmi,siemens,Verio,3.0,1044936.0,4085,,,71.8,M
-ppmiI1044937,ppmi,siemens,Verio,3.0,1044937.0,4085,,,71.8,M
-ppmiI355404,ppmi,siemens,Espree,1.5,355404.0,4090,,,57.5,M
-ppmiI355420,ppmi,siemens,Espree,1.5,355420.0,4100,,,58.2,M
-ppmiI364057,ppmi,siemens,Espree,1.5,364057.0,4104,,,66.4,M
-ppmiI355434,ppmi,siemens,Espree,1.5,355434.0,4105,,,66.8,M
-ppmiI372218,ppmi,siemens,Espree,1.5,372218.0,4116,,,64.5,M
-ppmiI372227,ppmi,siemens,Espree,1.5,372227.0,4118,,,68.1,F
-cobre_4087R4,cobre,siemens,TrioTim,3.0,,4087,,4.0,44.0,M
-cobre_7409R1,cobre,siemens,TrioTim,3.0,,7409,,1.0,48.0,M
-cobre_10150R3,cobre,siemens,TrioTim,3.0,,10150,,3.0,43.0,M
-cobre_12995R2,cobre,siemens,TrioTim,3.0,,12995,,2.0,49.0,M
-cobre_13140R2,cobre,siemens,TrioTim,3.0,,13140,,2.0,35.0,M
-cobre_13363R2,cobre,siemens,TrioTim,3.0,,13363,,2.0,44.0,M
-cobre_13363R1,cobre,siemens,TrioTim,3.0,,13363,,1.0,44.0,M
-cobre_13816R2,cobre,siemens,TrioTim,3.0,,13816,,2.0,24.0,M
-cobre_14120R2,cobre,siemens,TrioTim,3.0,,14120,,2.0,38.0,M
-cobre_14120R1,cobre,siemens,TrioTim,3.0,,14120,,1.0,38.0,M
-cobre_14225R2,cobre,siemens,TrioTim,3.0,,14225,,2.0,41.0,F
-cobre_14839R2,cobre,siemens,TrioTim,3.0,,14839,,2.0,32.0,F
-cobre_15759R2,cobre,siemens,TrioTim,3.0,,15759,,2.0,54.0,F
-cobre_15759R1,cobre,siemens,TrioTim,3.0,,15759,,1.0,54.0,F
-cobre_17294R2,cobre,siemens,TrioTim,3.0,,17294,,2.0,59.0,F
-cobre_18716R1,cobre,siemens,TrioTim,3.0,,18716,,1.0,31.0,M
-cobre_19888R1,cobre,siemens,TrioTim,3.0,,19888,,1.0,48.0,M
-cobre_20895R2,cobre,siemens,TrioTim,3.0,,20895,,2.0,43.0,M
-cobre_20968R2,cobre,siemens,TrioTim,3.0,,20968,,2.0,29.0,F
-cobre_20968R1,cobre,siemens,TrioTim,3.0,,20968,,1.0,29.0,F
-cobre_21058R2,cobre,siemens,TrioTim,3.0,,21058,,2.0,37.0,M
-cobre_21072R2,cobre,siemens,TrioTim,3.0,,21072,,2.0,45.0,F
-cobre_21072R1,cobre,siemens,TrioTim,3.0,,21072,,1.0,45.0,F
-cobre_21081R3,cobre,siemens,TrioTim,3.0,,21081,,3.0,24.0,M
-cobre_21085R2,cobre,siemens,TrioTim,3.0,,21085,,2.0,23.0,F
-cobre_22490R2,cobre,siemens,TrioTim,3.0,,22490,,2.0,24.0,F
-cobre_22490R3,cobre,siemens,TrioTim,3.0,,22490,,3.0,24.0,F
-cobre_22619R3,cobre,siemens,TrioTim,3.0,,22619,,3.0,52.0,M
-cobre_22619R1,cobre,siemens,TrioTim,3.0,,22619,,1.0,52.0,M
-cobre_22653R2,cobre,siemens,TrioTim,3.0,,22653,,2.0,30.0,F
-cobre_22810R2,cobre,siemens,TrioTim,3.0,,22810,,2.0,35.0,F
-cobre_22915R3,cobre,siemens,TrioTim,3.0,,22915,,3.0,45.0,M
-cobre_23095R2,cobre,siemens,TrioTim,3.0,,23095,,2.0,21.0,M
-cobre_23131R1,cobre,siemens,TrioTim,3.0,,23131,,1.0,36.0,M
-cobre_23143R1,cobre,siemens,TrioTim,3.0,,23143,,1.0,27.0,F
-cobre_23143R2,cobre,siemens,TrioTim,3.0,,23143,,2.0,27.0,F
-cobre_23143R3,cobre,siemens,TrioTim,3.0,,23143,,3.0,27.0,F
-cobre_23330R2,cobre,siemens,TrioTim,3.0,,23330,,2.0,29.0,M
-cobre_23337R1,cobre,siemens,TrioTim,3.0,,23337,,1.0,21.0,M
-cobre_23730R1,cobre,siemens,TrioTim,3.0,,23730,,1.0,51.0,M
-cobre_23800R2,cobre,siemens,TrioTim,3.0,,23800,,2.0,48.0,M
-cobre_23800R3,cobre,siemens,TrioTim,3.0,,23800,,3.0,48.0,M
-cobre_23848R2,cobre,siemens,TrioTim,3.0,,23848,,2.0,38.0,M
-cobre_23866R4,cobre,siemens,TrioTim,3.0,,23866,,4.0,23.0,M
-cobre_23866R1,cobre,siemens,TrioTim,3.0,,23866,,1.0,23.0,M
-cobre_24160R1,cobre,siemens,TrioTim,3.0,,24160,,1.0,23.0,M
-cobre_24301R2,cobre,siemens,TrioTim,3.0,,24301,,2.0,25.0,F
-cobre_24372R2,cobre,siemens,TrioTim,3.0,,24372,,2.0,23.0,M
-cobre_24535R2,cobre,siemens,TrioTim,3.0,,24535,,2.0,26.0,M
-cobre_24535R1,cobre,siemens,TrioTim,3.0,,24535,,1.0,26.0,M
-cobre_24663R2,cobre,siemens,TrioTim,3.0,,24663,,2.0,63.0,M
-cobre_24955R2,cobre,siemens,TrioTim,3.0,,24955,,2.0,59.0,M
-cobre_26907R4,cobre,siemens,TrioTim,3.0,,26907,,4.0,43.0,F
-cobre_26945R2,cobre,siemens,TrioTim,3.0,,26945,,2.0,39.0,M
-cobre_27787R4,cobre,siemens,TrioTim,3.0,,27787,,4.0,34.0,F
-cobre_28409R1,cobre,siemens,TrioTim,3.0,,28409,,1.0,31.0,M
-cobre_29226R2,cobre,siemens,TrioTim,3.0,,29226,,2.0,37.0,F
-cobre_29452R2,cobre,siemens,TrioTim,3.0,,29452,,2.0,39.0,M
-cobre_31478R1,cobre,siemens,TrioTim,3.0,,31478,,1.0,43.0,F
-cobre_35751R2,cobre,siemens,TrioTim,3.0,,35751,,2.0,42.0,M
-cobre_35751R1,cobre,siemens,TrioTim,3.0,,35751,,1.0,42.0,M
-cobre_36555R2,cobre,siemens,TrioTim,3.0,,36555,,2.0,52.0,M
-cobre_36916R2,cobre,siemens,TrioTim,3.0,,36916,,2.0,55.0,M
-cobre_37238R1,cobre,siemens,TrioTim,3.0,,37238,,1.0,38.0,M
-cobre_4087R1,cobre,siemens,TrioTim,3.0,,4087,,1.0,44.0,M
-cobre_7409R3,cobre,siemens,TrioTim,3.0,,7409,,3.0,48.0,M
-cobre_10150R2,cobre,siemens,TrioTim,3.0,,10150,,2.0,43.0,M
-cobre_11265R1,cobre,siemens,TrioTim,3.0,,11265,,1.0,22.0,F
-cobre_11725R1,cobre,siemens,TrioTim,3.0,,11725,,1.0,49.0,M
-cobre_13816R1,cobre,siemens,TrioTim,3.0,,13816,,1.0,24.0,M
-cobre_17294R1,cobre,siemens,TrioTim,3.0,,17294,,1.0,59.0,F
-cobre_18335R1,cobre,siemens,TrioTim,3.0,,18335,,1.0,51.0,F
-cobre_18716R2,cobre,siemens,TrioTim,3.0,,18716,,2.0,31.0,M
-cobre_18716R3,cobre,siemens,TrioTim,3.0,,18716,,3.0,31.0,M
-cobre_18716R4,cobre,siemens,TrioTim,3.0,,18716,,4.0,31.0,M
-cobre_19888R2,cobre,siemens,TrioTim,3.0,,19888,,2.0,48.0,M
-cobre_20805R2,cobre,siemens,TrioTim,3.0,,20805,,2.0,27.0,M
-cobre_21058R1,cobre,siemens,TrioTim,3.0,,21058,,1.0,37.0,M
-cobre_21058R4,cobre,siemens,TrioTim,3.0,,21058,,4.0,37.0,M
-cobre_21081R2,cobre,siemens,TrioTim,3.0,,21081,,2.0,24.0,M
-cobre_21145R2,cobre,siemens,TrioTim,3.0,,21145,,2.0,25.0,M
-cobre_21145R1,cobre,siemens,TrioTim,3.0,,21145,,1.0,25.0,M
-cobre_22490R4,cobre,siemens,TrioTim,3.0,,22490,,4.0,24.0,F
-cobre_22592R2,cobre,siemens,TrioTim,3.0,,22592,,2.0,53.0,F
-cobre_22592R1,cobre,siemens,TrioTim,3.0,,22592,,1.0,53.0,F
-cobre_22619R2,cobre,siemens,TrioTim,3.0,,22619,,2.0,52.0,M
-cobre_22653R1,cobre,siemens,TrioTim,3.0,,22653,,1.0,30.0,F
-cobre_22727R2,cobre,siemens,TrioTim,3.0,,22727,,2.0,39.0,M
-cobre_22727R1,cobre,siemens,TrioTim,3.0,,22727,,1.0,39.0,M
-cobre_22773R2,cobre,siemens,TrioTim,3.0,,22773,,2.0,48.0,M
-cobre_22835R2,cobre,siemens,TrioTim,3.0,,22835,,2.0,28.0,M
-cobre_22837R1,cobre,siemens,TrioTim,3.0,,22837,,1.0,26.0,M
-cobre_22837R2,cobre,siemens,TrioTim,3.0,,22837,,2.0,26.0,M
-cobre_22915R1,cobre,siemens,TrioTim,3.0,,22915,,1.0,45.0,M
-cobre_23095R1,cobre,siemens,TrioTim,3.0,,23095,,1.0,21.0,M
-cobre_23120R2,cobre,siemens,TrioTim,3.0,,23120,,2.0,47.0,M
-cobre_23131R2,cobre,siemens,TrioTim,3.0,,23131,,2.0,36.0,M
-cobre_23131R4,cobre,siemens,TrioTim,3.0,,23131,,4.0,36.0,M
-cobre_23330R1,cobre,siemens,TrioTim,3.0,,23330,,1.0,29.0,M
-cobre_23800R4,cobre,siemens,TrioTim,3.0,,23800,,4.0,48.0,M
-cobre_23800R1,cobre,siemens,TrioTim,3.0,,23800,,1.0,48.0,M
-cobre_23848R4,cobre,siemens,TrioTim,3.0,,23848,,4.0,38.0,M
-cobre_23866R2,cobre,siemens,TrioTim,3.0,,23866,,2.0,23.0,M
-cobre_23866R3,cobre,siemens,TrioTim,3.0,,23866,,3.0,23.0,M
-cobre_24301R1,cobre,siemens,TrioTim,3.0,,24301,,1.0,25.0,F
-cobre_24372R1,cobre,siemens,TrioTim,3.0,,24372,,1.0,23.0,M
-cobre_24446R1,cobre,siemens,TrioTim,3.0,,24446,,1.0,41.0,F
-cobre_24446R2,cobre,siemens,TrioTim,3.0,,24446,,2.0,41.0,F
-cobre_24546R2,cobre,siemens,TrioTim,3.0,,24546,,2.0,23.0,M
-cobre_24546R1,cobre,siemens,TrioTim,3.0,,24546,,1.0,23.0,M
-cobre_24820R1,cobre,siemens,TrioTim,3.0,,24820,,1.0,34.0,M
-cobre_24820R2,cobre,siemens,TrioTim,3.0,,24820,,2.0,34.0,M
-cobre_26945R3,cobre,siemens,TrioTim,3.0,,26945,,3.0,39.0,M
-cobre_26945R4,cobre,siemens,TrioTim,3.0,,26945,,4.0,39.0,M
-cobre_27787R2,cobre,siemens,TrioTim,3.0,,27787,,2.0,34.0,F
-cobre_27787R3,cobre,siemens,TrioTim,3.0,,27787,,3.0,34.0,F
-cobre_28406R2,cobre,siemens,TrioTim,3.0,,28406,,2.0,31.0,F
-cobre_31478R2,cobre,siemens,TrioTim,3.0,,31478,,2.0,43.0,F
-cobre_31764R1,cobre,siemens,TrioTim,3.0,,31764,,1.0,37.0,F
-cobre_31764R2,cobre,siemens,TrioTim,3.0,,31764,,2.0,37.0,F
-cobre_33214R1,cobre,siemens,TrioTim,3.0,,33214,,1.0,54.0,M
-cobre_37007R1,cobre,siemens,TrioTim,3.0,,37007,,1.0,60.0,M
-cobre_37564R2,cobre,siemens,TrioTim,3.0,,37564,,2.0,50.0,M
-cobre_37564R1,cobre,siemens,TrioTim,3.0,,37564,,1.0,50.0,M
-cobre_37665R2,cobre,siemens,TrioTim,3.0,,37665,,2.0,43.0,M
-cobre_1R2,cobre,siemens,TrioTim,3.0,,1,,2.0,36.0,M
-cobre_2R2,cobre,siemens,TrioTim,3.0,,2,,2.0,35.0,M
-cobre_2R4,cobre,siemens,TrioTim,3.0,,2,,4.0,35.0,M
-cobre_13140R1,cobre,siemens,TrioTim,3.0,,13140,,1.0,35.0,M
-cobre_14522R2,cobre,siemens,TrioTim,3.0,,14522,,2.0,65.0,M
-cobre_14522R1,cobre,siemens,TrioTim,3.0,,14522,,1.0,65.0,M
-cobre_15826R2,cobre,siemens,TrioTim,3.0,,15826,,2.0,27.0,M
-cobre_20805R4,cobre,siemens,TrioTim,3.0,,20805,,4.0,27.0,M
-cobre_21058R3,cobre,siemens,TrioTim,3.0,,21058,,3.0,37.0,M
-cobre_21081R1,cobre,siemens,TrioTim,3.0,,21081,,1.0,24.0,M
-cobre_21085R1,cobre,siemens,TrioTim,3.0,,21085,,1.0,23.0,F
-cobre_22490R1,cobre,siemens,TrioTim,3.0,,22490,,1.0,24.0,F
-cobre_22619R4,cobre,siemens,TrioTim,3.0,,22619,,4.0,52.0,M
-cobre_22810R1,cobre,siemens,TrioTim,3.0,,22810,,1.0,35.0,F
-cobre_22835R3,cobre,siemens,TrioTim,3.0,,22835,,3.0,28.0,M
-cobre_22915R2,cobre,siemens,TrioTim,3.0,,22915,,2.0,45.0,M
-cobre_22915R4,cobre,siemens,TrioTim,3.0,,22915,,4.0,45.0,M
-cobre_23120R1,cobre,siemens,TrioTim,3.0,,23120,,1.0,47.0,M
-cobre_23131R3,cobre,siemens,TrioTim,3.0,,23131,,3.0,36.0,M
-cobre_23848R1,cobre,siemens,TrioTim,3.0,,23848,,1.0,38.0,M
-cobre_24160R2,cobre,siemens,TrioTim,3.0,,24160,,2.0,23.0,M
-cobre_24372R5,cobre,siemens,TrioTim,3.0,,24372,,5.0,23.0,M
-cobre_24663R1,cobre,siemens,TrioTim,3.0,,24663,,1.0,63.0,M
-cobre_26907R2,cobre,siemens,TrioTim,3.0,,26907,,2.0,43.0,F
-cobre_27487R1,cobre,siemens,TrioTim,3.0,,27487,,1.0,53.0,M
-cobre_28052R2,cobre,siemens,TrioTim,3.0,,28052,,2.0,34.0,F
-cobre_28406R1,cobre,siemens,TrioTim,3.0,,28406,,1.0,31.0,F
-cobre_29452R1,cobre,siemens,TrioTim,3.0,,29452,,1.0,39.0,M
-cobre_33214R2,cobre,siemens,TrioTim,3.0,,33214,,2.0,54.0,M
-cobre_36555R1,cobre,siemens,TrioTim,3.0,,36555,,1.0,52.0,M
-cobre_36844R2,cobre,siemens,TrioTim,3.0,,36844,,2.0,55.0,M
-cobre_37318R1,cobre,siemens,TrioTim,3.0,,37318,,1.0,53.0,M
-cobre_2R3,cobre,siemens,TrioTim,3.0,,2,,3.0,35.0,M
-cobre_3150R3,cobre,siemens,TrioTim,3.0,,3150,,3.0,32.0,M
-cobre_9946R2,cobre,siemens,TrioTim,3.0,,9946,,2.0,35.0,M
-cobre_10150R4,cobre,siemens,TrioTim,3.0,,10150,,4.0,43.0,M
-cobre_11265R2,cobre,siemens,TrioTim,3.0,,11265,,2.0,22.0,F
-cobre_12995R1,cobre,siemens,TrioTim,3.0,,12995,,1.0,49.0,M
-cobre_14839R1,cobre,siemens,TrioTim,3.0,,14839,,1.0,32.0,F
-cobre_18335R2,cobre,siemens,TrioTim,3.0,,18335,,2.0,51.0,F
-cobre_18553R1,cobre,siemens,TrioTim,3.0,,18553,,1.0,34.0,F
-cobre_20805R1,cobre,siemens,TrioTim,3.0,,20805,,1.0,27.0,M
-cobre_20895R1,cobre,siemens,TrioTim,3.0,,20895,,1.0,43.0,M
-cobre_21081R4,cobre,siemens,TrioTim,3.0,,21081,,4.0,24.0,M
-cobre_22729R1,cobre,siemens,TrioTim,3.0,,22729,,1.0,47.0,F
-cobre_22773R1,cobre,siemens,TrioTim,3.0,,22773,,1.0,48.0,M
-cobre_22835R1,cobre,siemens,TrioTim,3.0,,22835,,1.0,28.0,M
-cobre_23848R3,cobre,siemens,TrioTim,3.0,,23848,,3.0,38.0,M
-cobre_24372R4,cobre,siemens,TrioTim,3.0,,24372,,4.0,23.0,M
-cobre_24663R4,cobre,siemens,TrioTim,3.0,,24663,,4.0,63.0,M
-cobre_24955R3,cobre,siemens,TrioTim,3.0,,24955,,3.0,59.0,M
-cobre_24955R4,cobre,siemens,TrioTim,3.0,,24955,,4.0,59.0,M
-cobre_27487R2,cobre,siemens,TrioTim,3.0,,27487,,2.0,53.0,M
-cobre_29226R1,cobre,siemens,TrioTim,3.0,,29226,,1.0,37.0,F
-cobre_36049R2,cobre,siemens,TrioTim,3.0,,36049,,2.0,57.0,M
-cobre_36844R1,cobre,siemens,TrioTim,3.0,,36844,,1.0,55.0,M
-cobre_37238R2,cobre,siemens,TrioTim,3.0,,37238,,2.0,38.0,M
-cobre_37318R2,cobre,siemens,TrioTim,3.0,,37318,,2.0,53.0,M
-cobre_37495R2,cobre,siemens,TrioTim,3.0,,37495,,2.0,49.0,M
-cobre_4087R3,cobre,siemens,TrioTim,3.0,,4087,,3.0,44.0,M
-cobre_15826R1,cobre,siemens,TrioTim,3.0,,15826,,1.0,27.0,M
-cobre_28052R1,cobre,siemens,TrioTim,3.0,,28052,,1.0,34.0,F
-cobre_22400R1,cobre,siemens,TrioTim,3.0,,22400,,1.0,25.0,M
-cobre_18553R2,cobre,siemens,TrioTim,3.0,,18553,,2.0,34.0,F
-cobre_21085R3,cobre,siemens,TrioTim,3.0,,21085,,3.0,23.0,F
-cobre_36049R1,cobre,siemens,TrioTim,3.0,,36049,,1.0,57.0,M
-cobre_20984R2,cobre,siemens,TrioTim,3.0,,20984,,2.0,31.0,M
-cobre_36916R1,cobre,siemens,TrioTim,3.0,,36916,,1.0,55.0,M
-cobre_21085R4,cobre,siemens,TrioTim,3.0,,21085,,4.0,23.0,F
-cobre_7409R2,cobre,siemens,TrioTim,3.0,,7409,,2.0,48.0,M
-cobre_9946R1,cobre,siemens,TrioTim,3.0,,9946,,1.0,35.0,M
-cobre_4087R2,cobre,siemens,TrioTim,3.0,,4087,,2.0,44.0,M
-cobre_23730R2,cobre,siemens,TrioTim,3.0,,23730,,2.0,51.0,M
-cobre_24663R3,cobre,siemens,TrioTim,3.0,,24663,,3.0,63.0,M
-cobre_24932R1,cobre,siemens,TrioTim,3.0,,24932,,1.0,25.0,F
-cobre_14898R1,cobre,siemens,TrioTim,3.0,,14898,,1.0,27.0,M
-cobre_26907R3,cobre,siemens,TrioTim,3.0,,26907,,3.0,43.0,F
-cobre_7409R4,cobre,siemens,TrioTim,3.0,,7409,,4.0,48.0,M
-cobre_26907R1,cobre,siemens,TrioTim,3.0,,26907,,1.0,43.0,F
-cobre_22835R4,cobre,siemens,TrioTim,3.0,,22835,,4.0,28.0,M
-cobre_37007R2,cobre,siemens,TrioTim,3.0,,37007,,2.0,60.0,M
-cobre_37495R1,cobre,siemens,TrioTim,3.0,,37495,,1.0,49.0,M
-cobre_14225R1,cobre,siemens,TrioTim,3.0,,14225,,1.0,41.0,F
-cobre_11725R2,cobre,siemens,TrioTim,3.0,,11725,,2.0,49.0,M
-cobre_10684R2,cobre,siemens,TrioTim,3.0,,10684,,2.0,55.0,M
-cobre_20984R1,cobre,siemens,TrioTim,3.0,,20984,,1.0,31.0,M
-cobre_10684R1,cobre,siemens,TrioTim,3.0,,10684,,1.0,55.0,M
-cobre_14898R2,cobre,siemens,TrioTim,3.0,,14898,,2.0,27.0,M
-cobre_22400R2,cobre,siemens,TrioTim,3.0,,22400,,2.0,25.0,M
-cobre_10150R1,cobre,siemens,TrioTim,3.0,,10150,,1.0,43.0,M
-cobre_20805R3,cobre,siemens,TrioTim,3.0,,20805,,3.0,27.0,M
-cobre_22509R1,cobre,siemens,TrioTim,3.0,,22509,,1.0,27.0,M
-cobre_22729R2,cobre,siemens,TrioTim,3.0,,22729,,2.0,47.0,F
-cobre_23143R4,cobre,siemens,TrioTim,3.0,,23143,,4.0,27.0,F
-cobre_23337R2,cobre,siemens,TrioTim,3.0,,23337,,2.0,21.0,M
-cobre_24932R2,cobre,siemens,TrioTim,3.0,,24932,,2.0,25.0,F
-cobre_24955R1,cobre,siemens,TrioTim,3.0,,24955,,1.0,59.0,M
-cobre_26945R1,cobre,siemens,TrioTim,3.0,,26945,,1.0,39.0,M
-cobre_27787R1,cobre,siemens,TrioTim,3.0,,27787,,1.0,34.0,F
-cobre_28409R2,cobre,siemens,TrioTim,3.0,,28409,,2.0,31.0,M
-cobre_37665R1,cobre,siemens,TrioTim,3.0,,37665,,1.0,43.0,M
-cobre_3150R4,cobre,siemens,TrioTim,3.0,,3150,,4.0,32.0,M
-mcic_131S20040101R2,mcic,siemens,Trio,2.89362,,131,20040101.0,2.0,23.0,F
-mcic_135S20050101R4,mcic,siemens,Avanto,1.494,,135,20050101.0,4.0,44.0,F
-mcic_137S20040101R3,mcic,siemens,Sonata,1.494,,137,20040101.0,3.0,35.0,M
-mcic_142S20050101R2,mcic,siemens,Avanto,1.494,,142,20050101.0,2.0,40.0,F
-mcic_214S20050101R1,mcic,siemens,Avanto,1.494,,214,20050101.0,1.0,45.0,M
-mcic_274S20050101R3,mcic,siemens,Sonata,1.494,,274,20050101.0,3.0,27.0,M
-mcic_276S20050101R1,mcic,siemens,Trio,2.89362,,276,20050101.0,1.0,45.0,M
-mcic_281S20050101R2,mcic,siemens,Avanto,1.494,,281,20050101.0,2.0,42.0,M
-mcic_281S20050101R3,mcic,siemens,Avanto,1.494,,281,20050101.0,3.0,42.0,M
-mcic_284S20050101R2,mcic,siemens,Sonata,1.494,,284,20050101.0,2.0,39.0,M
-mcic_293S20050101R2,mcic,siemens,Trio,2.89362,,293,20050101.0,2.0,26.0,F
-mcic_304S20050101R1,mcic,siemens,Trio,2.89362,,304,20050101.0,1.0,24.0,F
-mcic_351S20050101R1,mcic,siemens,Trio,2.89362,,351,20050101.0,1.0,26.0,F
-mcic_358S20050101R2,mcic,siemens,Trio,2.89362,,358,20050101.0,2.0,48.0,M
-mcic_401S20050101R1,mcic,siemens,Sonata,1.494,,401,20050101.0,1.0,21.0,M
-mcic_403S20050101R1,mcic,siemens,Trio,2.89362,,403,20050101.0,1.0,30.0,M
-mcic_420S20050101R2,mcic,siemens,Sonata,1.494,,420,20050101.0,2.0,44.0,F
-mcic_421S20050101R1,mcic,siemens,Sonata,1.494,,421,20050101.0,1.0,19.0,F
-mcic_425S20060101R1,mcic,siemens,Trio,2.89362,,425,20060101.0,1.0,38.0,F
-mcic_472S20050101R1,mcic,siemens,Trio,2.89362,,472,20050101.0,1.0,60.0,F
-mcic_519S20040101R1,mcic,siemens,Sonata,1.494,,519,20040101.0,1.0,30.0,M
-mcic_519S20040101R3,mcic,siemens,Sonata,1.494,,519,20040101.0,3.0,30.0,M
-mcic_521S20040101R1,mcic,siemens,Sonata,1.494,,521,20040101.0,1.0,54.0,M
-mcic_135S20050101R3,mcic,siemens,Avanto,1.494,,135,20050101.0,3.0,44.0,F
-mcic_248S20050101R2,mcic,siemens,Trio,2.89362,,248,20050101.0,2.0,19.0,M
-mcic_240S20050101R3,mcic,siemens,Avanto,1.494,,240,20050101.0,3.0,35.0,M
-mcic_213S20040101R1,mcic,siemens,Trio,2.89362,,213,20040101.0,1.0,36.0,M
-mcic_200S20040101R3,mcic,siemens,Sonata,1.494,,200,20040101.0,3.0,51.0,M
-mcic_259S20050101R3,mcic,siemens,Avanto,1.494,,259,20050101.0,3.0,50.0,M
-mcic_131S20040101R1,mcic,siemens,Trio,2.89362,,131,20040101.0,1.0,23.0,F
-mcic_276S20050101R2,mcic,siemens,Trio,2.89362,,276,20050101.0,2.0,45.0,M
-mcic_290S20050101R3,mcic,siemens,Sonata,1.494,,290,20050101.0,3.0,48.0,F
-mcic_309S20050101R2,mcic,siemens,Sonata,1.494,,309,20050101.0,2.0,28.0,F
-mcic_312S20050101R2,mcic,siemens,Avanto,1.494,,312,20050101.0,2.0,46.0,M
-mcic_321S20050101R4,mcic,siemens,Avanto,1.494,,321,20050101.0,4.0,46.0,F
-mcic_358S20050101R1,mcic,siemens,Trio,2.89362,,358,20050101.0,1.0,48.0,M
-mcic_379S20050101R1,mcic,siemens,Sonata,1.494,,379,20050101.0,1.0,20.0,F
-mcic_455S20050101R2,mcic,siemens,Trio,2.89362,,455,20050101.0,2.0,30.0,M
-mcic_477S20050101R3,mcic,siemens,Sonata,1.494,,477,20050101.0,3.0,46.0,M
-mcic_497S20050101R2,mcic,siemens,Avanto,1.494,,497,20050101.0,2.0,23.0,M
-mcic_500S20060101R2,mcic,siemens,Sonata,1.494,,500,20060101.0,2.0,22.0,M
-mcic_404S20050101R1,mcic,siemens,Sonata,1.494,,404,20050101.0,1.0,49.0,M
-mcic_138S20050101R1,mcic,siemens,Avanto,1.494,,138,20050101.0,1.0,37.0,M
-mcic_328S20050101R2,mcic,siemens,Avanto,1.494,,328,20050101.0,2.0,47.0,M
-mcic_263S20050101R2,mcic,siemens,Avanto,1.494,,263,20050101.0,2.0,40.0,F
-mcic_403S20050101R2,mcic,siemens,Trio,2.89362,,403,20050101.0,2.0,30.0,M
-mcic_321S20050101R3,mcic,siemens,Avanto,1.494,,321,20050101.0,3.0,46.0,F
-mcic_289S20050101R3,mcic,siemens,Sonata,1.494,,289,20050101.0,3.0,32.0,M
-mcic_169S20040101R1,mcic,siemens,Trio,2.89362,,169,20040101.0,1.0,23.0,F
-mcic_309S20050101R3,mcic,siemens,Sonata,1.494,,309,20050101.0,3.0,28.0,F
-mcic_297S20050101R3,mcic,siemens,Avanto,1.494,,297,20050101.0,3.0,25.0,F
-mcic_289S20050101R1,mcic,siemens,Sonata,1.494,,289,20050101.0,1.0,32.0,M
-mcic_291S20050101R1,mcic,siemens,Avanto,1.494,,291,20050101.0,1.0,43.0,M
-mcic_379S20050101R2,mcic,siemens,Sonata,1.494,,379,20050101.0,2.0,20.0,F
-mcic_135S20050101R2,mcic,siemens,Avanto,1.494,,135,20050101.0,2.0,44.0,F
-mcic_299S20050101R2,mcic,siemens,Trio,2.89362,,299,20050101.0,2.0,24.0,F
-mcic_377S20050101R2,mcic,siemens,Avanto,1.494,,377,20050101.0,2.0,42.0,M
-mcic_415S20050101R3,mcic,siemens,Sonata,1.494,,415,20050101.0,3.0,20.0,M
-mcic_421S20050101R2,mcic,siemens,Sonata,1.494,,421,20050101.0,2.0,19.0,F
-mcic_455S20050101R1,mcic,siemens,Trio,2.89362,,455,20050101.0,1.0,30.0,M
-mcic_496S20050101R2,mcic,siemens,Avanto,1.494,,496,20050101.0,2.0,36.0,M
-mcic_496S20050101R3,mcic,siemens,Avanto,1.494,,496,20050101.0,3.0,36.0,M
-mcic_359S20050101R2,mcic,siemens,Trio,2.89362,,359,20050101.0,2.0,48.0,M
-mcic_297S20050101R2,mcic,siemens,Avanto,1.494,,297,20050101.0,2.0,25.0,F
-mcic_259S20050101R2,mcic,siemens,Avanto,1.494,,259,20050101.0,2.0,50.0,M
-mcic_290S20050101R2,mcic,siemens,Sonata,1.494,,290,20050101.0,2.0,48.0,F
-mcic_206S20040101R2,mcic,siemens,Sonata,1.494,,206,20040101.0,2.0,42.0,M
-mcic_263S20050101R3,mcic,siemens,Avanto,1.494,,263,20050101.0,3.0,40.0,F
-mcic_200S20040101R2,mcic,siemens,Sonata,1.494,,200,20040101.0,2.0,51.0,M
-mcic_381S20050101R1,mcic,siemens,Sonata,1.494,,381,20050101.0,1.0,31.0,M
-mcic_136S20050101R1,mcic,siemens,Trio,2.89362,,136,20050101.0,1.0,41.0,F
-mcic_330S20050101R2,mcic,siemens,Trio,2.89362,,330,20050101.0,2.0,27.0,M
-mcic_292S20050101R2,mcic,siemens,Trio,2.89362,,292,20050101.0,2.0,50.0,M
-mcic_212S20040101R4,mcic,siemens,Avanto,1.494,,212,20040101.0,4.0,47.0,M
-mcic_230S20050101R1,mcic,siemens,Trio,2.89362,,230,20050101.0,1.0,27.0,M
-mcic_294S20050101R3,mcic,siemens,Sonata,1.494,,294,20050101.0,3.0,21.0,F
-mcic_291S20050101R2,mcic,siemens,Avanto,1.494,,291,20050101.0,2.0,43.0,M
-mcic_294S20050101R1,mcic,siemens,Sonata,1.494,,294,20050101.0,1.0,21.0,F
-mcic_300S20050101R2,mcic,siemens,Avanto,1.494,,300,20050101.0,2.0,21.0,F
-mcic_401S20050101R3,mcic,siemens,Sonata,1.494,,401,20050101.0,3.0,21.0,M
-mcic_453S20050101R1,mcic,siemens,Sonata,1.494,,453,20050101.0,1.0,19.0,M
-mcic_468S20050101R2,mcic,siemens,Sonata,1.494,,468,20050101.0,2.0,19.0,M
-mcic_469S20050101R2,mcic,siemens,Sonata,1.494,,469,20050101.0,2.0,19.0,M
-mcic_264S20050101R2,mcic,siemens,Avanto,1.494,,264,20050101.0,2.0,47.0,M
-mcic_264S20050101R1,mcic,siemens,Avanto,1.494,,264,20050101.0,1.0,47.0,M
-mcic_128S20050101R2,mcic,siemens,Trio,2.89362,,128,20050101.0,2.0,31.0,M
-mcic_212S20040101R1,mcic,siemens,Avanto,1.494,,212,20040101.0,1.0,47.0,M
-mcic_111S20060101R3,mcic,siemens,Sonata,1.494,,111,20060101.0,3.0,24.0,M
-mcic_300S20050101R3,mcic,siemens,Avanto,1.494,,300,20050101.0,3.0,21.0,F
-mcic_366S20050101R1,mcic,siemens,Trio,2.89362,,366,20050101.0,1.0,19.0,M
-mcic_415S20050101R1,mcic,siemens,Sonata,1.494,,415,20050101.0,1.0,20.0,M
-mcic_417S20050101R1,mcic,siemens,Avanto,1.494,,417,20050101.0,1.0,57.0,M
-mcic_468S20050101R3,mcic,siemens,Sonata,1.494,,468,20050101.0,3.0,19.0,M
-mcic_469S20050101R1,mcic,siemens,Sonata,1.494,,469,20050101.0,1.0,19.0,M
-mcic_290S20050101R1,mcic,siemens,Sonata,1.494,,290,20050101.0,1.0,48.0,F
-mcic_279S20050101R3,mcic,siemens,Sonata,1.494,,279,20050101.0,3.0,22.0,F
-mcic_284S20050101R3,mcic,siemens,Sonata,1.494,,284,20050101.0,3.0,39.0,M
-mcic_300S20050101R1,mcic,siemens,Avanto,1.494,,300,20050101.0,1.0,21.0,F
-mcic_284S20050101R1,mcic,siemens,Sonata,1.494,,284,20050101.0,1.0,39.0,M
-mcic_338S20050101R4,mcic,siemens,Avanto,1.494,,338,20050101.0,4.0,51.0,F
-mcic_366S20050101R2,mcic,siemens,Trio,2.89362,,366,20050101.0,2.0,19.0,M
-mcic_200S20040101R1,mcic,siemens,Sonata,1.494,,200,20040101.0,1.0,51.0,M
-mcic_209S20040101R3,mcic,siemens,Sonata,1.494,,209,20040101.0,3.0,31.0,M
-mcic_353S20040101R1,mcic,siemens,Sonata,1.494,,353,20040101.0,1.0,33.0,F
-mcic_404S20050101R2,mcic,siemens,Sonata,1.494,,404,20050101.0,2.0,49.0,M
-mcic_170S20040101R2,mcic,siemens,Trio,2.89362,,170,20040101.0,2.0,21.0,M
-mcic_410S20050101R2,mcic,siemens,Sonata,1.494,,410,20050101.0,2.0,53.0,M
-mcic_111S20060101R1,mcic,siemens,Sonata,1.494,,111,20060101.0,1.0,24.0,M
-mcic_136S20050101R2,mcic,siemens,Trio,2.89362,,136,20050101.0,2.0,41.0,F
-mcic_466S20050101R1,mcic,siemens,Sonata,1.494,,466,20050101.0,1.0,19.0,M
-mcic_209S20040101R2,mcic,siemens,Sonata,1.494,,209,20040101.0,2.0,31.0,M
-mcic_291S20050101R3,mcic,siemens,Avanto,1.494,,291,20050101.0,3.0,43.0,M
-mcic_128S20050101R1,mcic,siemens,Trio,2.89362,,128,20050101.0,1.0,31.0,M
-mcic_230S20050101R2,mcic,siemens,Trio,2.89362,,230,20050101.0,2.0,27.0,M
-mcic_330S20050101R1,mcic,siemens,Trio,2.89362,,330,20050101.0,1.0,27.0,M
-mcic_446S20050101R1,mcic,siemens,Sonata,1.494,,446,20050101.0,1.0,24.0,F
-mcic_142S20050101R1,mcic,siemens,Avanto,1.494,,142,20050101.0,1.0,40.0,F
-mcic_419S20050101R1,mcic,siemens,Avanto,1.494,,419,20050101.0,1.0,44.0,F
-mcic_523S20060101R2,mcic,siemens,Sonata,1.494,,523,20060101.0,2.0,19.0,M
-mcic_123S20050101R3,mcic,siemens,Sonata,1.494,,123,20050101.0,3.0,30.0,M
-mcic_169S20040101R2,mcic,siemens,Trio,2.89362,,169,20040101.0,2.0,23.0,F
-mcic_182S20040101R1,mcic,siemens,Avanto,1.494,,182,20040101.0,1.0,47.0,M
-mcic_274S20050101R1,mcic,siemens,Sonata,1.494,,274,20050101.0,1.0,27.0,M
-mcic_304S20050101R2,mcic,siemens,Trio,2.89362,,304,20050101.0,2.0,24.0,F
-mcic_328S20050101R1,mcic,siemens,Avanto,1.494,,328,20050101.0,1.0,47.0,M
-mcic_328S20050101R3,mcic,siemens,Avanto,1.494,,328,20050101.0,3.0,47.0,M
-mcic_388S20050101R2,mcic,siemens,Trio,2.89362,,388,20050101.0,2.0,19.0,F
-mcic_446S20050101R2,mcic,siemens,Sonata,1.494,,446,20050101.0,2.0,24.0,F
-mcic_457S20050101R3,mcic,siemens,Sonata,1.494,,457,20050101.0,3.0,23.0,M
-mcic_462S20050101R1,mcic,siemens,Sonata,1.494,,462,20050101.0,1.0,19.0,M
-mcic_466S20050101R3,mcic,siemens,Sonata,1.494,,466,20050101.0,3.0,19.0,M
-mcic_521S20040101R2,mcic,siemens,Sonata,1.494,,521,20040101.0,2.0,54.0,M
-mcic_137S20040101R1,mcic,siemens,Sonata,1.494,,137,20040101.0,1.0,35.0,M
-mcic_293S20050101R1,mcic,siemens,Trio,2.89362,,293,20050101.0,1.0,26.0,F
-mcic_279S20050101R1,mcic,siemens,Sonata,1.494,,279,20050101.0,1.0,22.0,F
-mcic_236S20050101R2,mcic,siemens,Trio,2.89362,,236,20050101.0,2.0,23.0,M
-mcic_338S20050101R1,mcic,siemens,Avanto,1.494,,338,20050101.0,1.0,51.0,F
-mcic_338S20050101R2,mcic,siemens,Avanto,1.494,,338,20050101.0,2.0,51.0,F
-mcic_419S20050101R2,mcic,siemens,Avanto,1.494,,419,20050101.0,2.0,44.0,F
-mcic_425S20060101R2,mcic,siemens,Trio,2.89362,,425,20060101.0,2.0,38.0,F
-mcic_447S20060101R2,mcic,siemens,Sonata,1.494,,447,20060101.0,2.0,29.0,M
-mcic_453S20050101R3,mcic,siemens,Sonata,1.494,,453,20050101.0,3.0,19.0,M
-mcic_214S20050101R4,mcic,siemens,Avanto,1.494,,214,20050101.0,4.0,45.0,M
-mcic_344S20050101R1,mcic,siemens,Avanto,1.494,,344,20050101.0,1.0,23.0,F
-mcic_353S20040101R3,mcic,siemens,Sonata,1.494,,353,20040101.0,3.0,33.0,F
-mcic_111S20060101R2,mcic,siemens,Sonata,1.494,,111,20060101.0,2.0,24.0,M
-mcic_135S20050101R1,mcic,siemens,Avanto,1.494,,135,20050101.0,1.0,44.0,F
-mcic_466S20050101R2,mcic,siemens,Sonata,1.494,,466,20050101.0,2.0,19.0,M
-mcic_206S20040101R3,mcic,siemens,Sonata,1.494,,206,20040101.0,3.0,42.0,M
-mcic_497S20050101R1,mcic,siemens,Avanto,1.494,,497,20050101.0,1.0,23.0,M
-mcic_523S20060101R1,mcic,siemens,Sonata,1.494,,523,20060101.0,1.0,19.0,M
-mcic_236S20050101R1,mcic,siemens,Trio,2.89362,,236,20050101.0,1.0,23.0,M
-mcic_240S20050101R1,mcic,siemens,Avanto,1.494,,240,20050101.0,1.0,35.0,M
-mcic_281S20050101R1,mcic,siemens,Avanto,1.494,,281,20050101.0,1.0,42.0,M
-mcic_309S20050101R1,mcic,siemens,Sonata,1.494,,309,20050101.0,1.0,28.0,F
-mcic_344S20050101R3,mcic,siemens,Avanto,1.494,,344,20050101.0,3.0,23.0,F
-mcic_359S20050101R1,mcic,siemens,Trio,2.89362,,359,20050101.0,1.0,48.0,M
-mcic_410S20050101R3,mcic,siemens,Sonata,1.494,,410,20050101.0,3.0,53.0,M
-mcic_420S20050101R3,mcic,siemens,Sonata,1.494,,420,20050101.0,3.0,44.0,F
-mcic_427S20050101R3,mcic,siemens,Sonata,1.494,,427,20050101.0,3.0,52.0,M
-mcic_452S20050101R2,mcic,siemens,Sonata,1.494,,452,20050101.0,2.0,19.0,M
-mcic_462S20050101R3,mcic,siemens,Sonata,1.494,,462,20050101.0,3.0,19.0,M
-mcic_498S20060101R1,mcic,siemens,Trio,2.89362,,498,20060101.0,1.0,58.0,M
-mcic_523S20060101R3,mcic,siemens,Sonata,1.494,,523,20060101.0,3.0,19.0,M
-mcic_240S20050101R2,mcic,siemens,Avanto,1.494,,240,20050101.0,2.0,35.0,M
-mcic_264S20050101R3,mcic,siemens,Avanto,1.494,,264,20050101.0,3.0,47.0,M
-mcic_248S20050101R1,mcic,siemens,Trio,2.89362,,248,20050101.0,1.0,19.0,M
-mcic_206S20040101R1,mcic,siemens,Sonata,1.494,,206,20040101.0,1.0,42.0,M
-mcic_123S20050101R1,mcic,siemens,Sonata,1.494,,123,20050101.0,1.0,30.0,M
-mcic_379S20050101R3,mcic,siemens,Sonata,1.494,,379,20050101.0,3.0,20.0,F
-mcic_446S20050101R3,mcic,siemens,Sonata,1.494,,446,20050101.0,3.0,24.0,F
-mcic_447S20060101R3,mcic,siemens,Sonata,1.494,,447,20060101.0,3.0,29.0,M
-mcic_142S20050101R3,mcic,siemens,Avanto,1.494,,142,20050101.0,3.0,40.0,F
-mcic_294S20050101R2,mcic,siemens,Sonata,1.494,,294,20050101.0,2.0,21.0,F
-mcic_209S20040101R1,mcic,siemens,Sonata,1.494,,209,20040101.0,1.0,31.0,M
-mcic_247S20050101R1,mcic,siemens,Trio,2.89362,,247,20050101.0,1.0,45.0,F
-mcic_468S20050101R1,mcic,siemens,Sonata,1.494,,468,20050101.0,1.0,19.0,M
-mcic_138S20050101R2,mcic,siemens,Avanto,1.494,,138,20050101.0,2.0,37.0,M
-mcic_138S20050101R3,mcic,siemens,Avanto,1.494,,138,20050101.0,3.0,37.0,M
-mcic_170S20040101R1,mcic,siemens,Trio,2.89362,,170,20040101.0,1.0,21.0,M
-mcic_214S20050101R2,mcic,siemens,Avanto,1.494,,214,20050101.0,2.0,45.0,M
-mcic_214S20050101R3,mcic,siemens,Avanto,1.494,,214,20050101.0,3.0,45.0,M
-mcic_259S20050101R1,mcic,siemens,Avanto,1.494,,259,20050101.0,1.0,50.0,M
-mcic_312S20050101R1,mcic,siemens,Avanto,1.494,,312,20050101.0,1.0,46.0,M
-mcic_351S20050101R2,mcic,siemens,Trio,2.89362,,351,20050101.0,2.0,26.0,F
-mcic_377S20050101R1,mcic,siemens,Avanto,1.494,,377,20050101.0,1.0,42.0,M
-mcic_377S20050101R3,mcic,siemens,Avanto,1.494,,377,20050101.0,3.0,42.0,M
-mcic_415S20050101R2,mcic,siemens,Sonata,1.494,,415,20050101.0,2.0,20.0,M
-mcic_457S20050101R1,mcic,siemens,Sonata,1.494,,457,20050101.0,1.0,23.0,M
-mcic_469S20050101R3,mcic,siemens,Sonata,1.494,,469,20050101.0,3.0,19.0,M
-mcic_497S20050101R3,mcic,siemens,Avanto,1.494,,497,20050101.0,3.0,23.0,M
-mcic_500S20060101R1,mcic,siemens,Sonata,1.494,,500,20060101.0,1.0,22.0,M
-mcic_520S20040101R3,mcic,siemens,Sonata,1.494,,520,20040101.0,3.0,27.0,M
-mcic_123S20050101R2,mcic,siemens,Sonata,1.494,,123,20050101.0,2.0,30.0,M
-mcic_289S20050101R2,mcic,siemens,Sonata,1.494,,289,20050101.0,2.0,32.0,M
-mcic_182S20040101R3,mcic,siemens,Avanto,1.494,,182,20040101.0,3.0,47.0,M
-mcic_212S20040101R3,mcic,siemens,Avanto,1.494,,212,20040101.0,3.0,47.0,M
-mcic_297S20050101R1,mcic,siemens,Avanto,1.494,,297,20050101.0,1.0,25.0,F
-mcic_299S20050101R1,mcic,siemens,Trio,2.89362,,299,20050101.0,1.0,24.0,F
-mcic_381S20050101R3,mcic,siemens,Sonata,1.494,,381,20050101.0,3.0,31.0,M
-mcic_462S20050101R2,mcic,siemens,Sonata,1.494,,462,20050101.0,2.0,19.0,M
-mcic_520S20040101R1,mcic,siemens,Sonata,1.494,,520,20040101.0,1.0,27.0,M
-mcic_521S20040101R3,mcic,siemens,Sonata,1.494,,521,20040101.0,3.0,54.0,M
-mcic_292S20050101R1,mcic,siemens,Trio,2.89362,,292,20050101.0,1.0,50.0,M
-mcic_182S20040101R4,mcic,siemens,Avanto,1.494,,182,20040101.0,4.0,47.0,M
-mcic_388S20050101R1,mcic,siemens,Trio,2.89362,,388,20050101.0,1.0,19.0,F
-mcic_179S20040101R1,mcic,siemens,Avanto,1.494,,179,20040101.0,1.0,46.0,F
-mcic_404S20050101R3,mcic,siemens,Sonata,1.494,,404,20050101.0,3.0,49.0,M
-mcic_321S20050101R2,mcic,siemens,Avanto,1.494,,321,20050101.0,2.0,46.0,F
-mcic_274S20050101R2,mcic,siemens,Sonata,1.494,,274,20050101.0,2.0,27.0,M
-mcic_453S20050101R2,mcic,siemens,Sonata,1.494,,453,20050101.0,2.0,19.0,M
-mcic_472S20050101R2,mcic,siemens,Trio,2.89362,,472,20050101.0,2.0,60.0,F
-mcic_477S20050101R2,mcic,siemens,Sonata,1.494,,477,20050101.0,2.0,46.0,M
-mcic_498S20060101R2,mcic,siemens,Trio,2.89362,,498,20060101.0,2.0,58.0,M
-mcic_500S20060101R3,mcic,siemens,Sonata,1.494,,500,20060101.0,3.0,22.0,M
-mcic_496S20050101R1,mcic,siemens,Avanto,1.494,,496,20050101.0,1.0,36.0,M
-mcic_452S20050101R1,mcic,siemens,Sonata,1.494,,452,20050101.0,1.0,19.0,M
-mcic_410S20050101R1,mcic,siemens,Sonata,1.494,,410,20050101.0,1.0,53.0,M
-mcic_477S20050101R1,mcic,siemens,Sonata,1.494,,477,20050101.0,1.0,46.0,M
-mcic_213S20040101R2,mcic,siemens,Trio,2.89362,,213,20040101.0,2.0,36.0,M
-mcic_344S20050101R2,mcic,siemens,Avanto,1.494,,344,20050101.0,2.0,23.0,F
-mcic_452S20050101R3,mcic,siemens,Sonata,1.494,,452,20050101.0,3.0,19.0,M
-mcic_421S20050101R3,mcic,siemens,Sonata,1.494,,421,20050101.0,3.0,19.0,F
-mcic_212S20040101R2,mcic,siemens,Avanto,1.494,,212,20040101.0,2.0,47.0,M
-mcic_321S20050101R1,mcic,siemens,Avanto,1.494,,321,20050101.0,1.0,46.0,F
-mcic_417S20050101R3,mcic,siemens,Avanto,1.494,,417,20050101.0,3.0,57.0,M
-mcic_338S20050101R3,mcic,siemens,Avanto,1.494,,338,20050101.0,3.0,51.0,F
-mcic_420S20050101R1,mcic,siemens,Sonata,1.494,,420,20050101.0,1.0,44.0,F
-mcic_519S20040101R2,mcic,siemens,Sonata,1.494,,519,20040101.0,2.0,30.0,M
-mcic_263S20050101R1,mcic,siemens,Avanto,1.494,,263,20050101.0,1.0,40.0,F
-mcic_312S20050101R3,mcic,siemens,Avanto,1.494,,312,20050101.0,3.0,46.0,M
-mcic_447S20060101R1,mcic,siemens,Sonata,1.494,,447,20060101.0,1.0,29.0,M
-mcic_419S20050101R3,mcic,siemens,Avanto,1.494,,419,20050101.0,3.0,44.0,F
-mcic_137S20040101R2,mcic,siemens,Sonata,1.494,,137,20040101.0,2.0,35.0,M
-mcic_417S20050101R4,mcic,siemens,Avanto,1.494,,417,20050101.0,4.0,57.0,M
-mcic_247S20050101R2,mcic,siemens,Trio,2.89362,,247,20050101.0,2.0,45.0,F
-mcic_353S20040101R2,mcic,siemens,Sonata,1.494,,353,20040101.0,2.0,33.0,F
-mcic_401S20050101R2,mcic,siemens,Sonata,1.494,,401,20050101.0,2.0,21.0,M
-mcic_417S20050101R2,mcic,siemens,Avanto,1.494,,417,20050101.0,2.0,57.0,M
-mcic_457S20050101R2,mcic,siemens,Sonata,1.494,,457,20050101.0,2.0,23.0,M
-mcic_520S20040101R2,mcic,siemens,Sonata,1.494,,520,20040101.0,2.0,27.0,M
-mcic_381S20050101R2,mcic,siemens,Sonata,1.494,,381,20050101.0,2.0,31.0,M
-mcic_182S20040101R2,mcic,siemens,Avanto,1.494,,182,20040101.0,2.0,47.0,M
-mcic_279S20050101R2,mcic,siemens,Sonata,1.494,,279,20050101.0,2.0,22.0,F
+ds_name,image_id,sub_id,session,run,age,sex
+adni,70113.0,1249,,,71.4,F
+adni,143884.0,441,,,75.8,F
+adni,273564.0,4421,,,75.2,F
+adni,287527.0,4558,,,70.1,F
+adni,420523.0,4645,,,78.4,F
+adni,36798.0,441,,,73.5,F
+adni,786133.0,4003,,,72.8,F
+adni,319414.0,4839,,,65.6,M
+adni,380982.0,4649,,,66.1,M
+adni,283439.0,4459,,,68.2,F
+adni,461000.0,602,,,79.4,M
+adni,224611.0,4003,,,72.4,F
+adni,11645.0,223,,,78.1,F
+adni,367535.0,4900,,,60.4,F
+adni,42948.0,232,,,79.1,M
+adni,299397.0,1222,,,78.7,F
+adni,53717.0,196,,,79.1,F
+adni,224500.0,1250,,,77.4,F
+adni,135476.0,1232,,,74.2,F
+adni,204415.0,1098,,,76.1,F
+adni,41449.0,1241,,,72.2,M
+adni,920975.0,4076,,,79.0,F
+adni,24826.0,232,,,78.6,M
+adni,28089.0,301,,,74.2,F
+adni,40503.0,1261,,,71.3,F
+adni,260369.0,4097,,,71.1,F
+adni,882274.0,4604,,,70.4,M
+adni,547774.0,4335,,,75.8,F
+adni,367533.0,4900,,,60.4,F
+adni,49328.0,1301,,,72.4,F
+adni,66061.0,602,,,72.1,M
+adni,19156.0,734,,,72.6,M
+adni,284250.0,1232,,,77.2,F
+adni,56482.0,1098,,,72.6,F
+adni,190819.0,382,,,79.9,F
+adni,173062.0,337,,,80.0,M
+adni,285190.0,4422,,,71.1,F
+adni,1328524.0,6509,,,67.5,M
+adni,70097.0,1280,,,71.4,F
+adni,1014334.0,6457,,,74.6,M
+adni,160298.0,1098,,,75.1,F
+adni,154018.0,751,,,74.0,M
+adni,225440.0,172,,,75.7,F
+adni,103963.0,441,,,74.8,F
+adni,20016.0,751,,,70.9,M
+adni,41448.0,1241,,,72.2,M
+adni,54627.0,459,,,74.1,M
+adni,1544012.0,6147,,,73.7,M
+adni,361704.0,4503,,,72.8,F
+adni,321376.0,4872,,,68.6,F
+adni,10934.0,120,,,72.1,M
+adni,291317.0,4555,,,65.9,F
+adni,91614.0,1206,,,74.1,M
+adni,216139.0,120,,,77.2,M
+adni,69267.0,684,,,78.6,F
+adni,273577.0,4421,,,75.2,F
+adni,309970.0,4387,,,76.7,F
+adni,286228.0,4503,,,71.8,F
+adni,76514.0,1301,,,72.8,F
+adni,33200.0,493,,,78.2,M
+adni,100004.0,1267,,,74.4,M
+adni,399187.0,4369,,,70.4,M
+adni,26689.0,969,,,70.1,M
+adni,261410.0,4050,,,77.4,M
+adni,288016.0,4387,,,76.4,F
+adni,9488.0,74,,,78.3,M
+adni,574444.0,4951,,,75.2,F
+adni,49244.0,172,,,71.8,F
+adni,156288.0,824,,,79.4,F
+adni,98728.0,1251,,,75.4,F
+adni,47327.0,484,,,71.6,M
+adni,173505.0,441,,,76.8,F
+adni,116000.0,734,,,74.7,M
+adni,88609.0,1250,,,74.3,F
+adni,1484260.0,6016,,,69.7,F
+adni,1346960.0,6436,,,72.1,F
+adni,37849.0,1232,,,72.2,F
+adni,11399.0,172,,,70.7,F
+adni,387411.0,4843,,,74.5,F
+adni,74915.0,1251,,,74.9,F
+adni,364310.0,4560,,,71.5,F
+adni,111582.0,520,,,80.0,F
+adni,140906.0,172,,,73.8,F
+adni,284996.0,4396,,,78.7,F
+adni,12459.0,229,,,74.5,F
+adni,17711.0,622,,,74.7,F
+adni,373933.0,4649,,,66.6,M
+adni,76695.0,778,,,73.7,M
+adni,76478.0,1301,,,72.8,F
+adni,294392.0,4421,,,75.4,F
+adni,379017.0,4900,,,60.1,F
+adni,1180976.0,6330,,,71.3,M
+adni,104454.0,337,,,78.0,M
+adni,284255.0,4371,,,68.0,M
+adni,298527.0,4585,,,65.5,M
+adni,861323.0,4446,,,73.8,F
+adni,14848.0,493,,,77.6,M
+adni,69921.0,1206,,,73.6,M
+adni,53629.0,301,,,74.7,F
+adni,16023.0,548,,,73.8,F
+adni,61949.0,680,,,78.9,M
+adni,135827.0,1206,,,75.0,M
+adni,947862.0,6146,,,65.5,F
+adni,24264.0,484,,,71.1,M
+adni,395646.0,4276,,,76.0,F
+adni,41255.0,1301,,,72.2,F
+adni,90038.0,1249,,,71.9,F
+adni,1021434.0,6436,,,69.8,F
+adni,381950.0,4275,,,74.6,M
+adni,331277.0,4198,,,79.5,F
+adni,95038.0,1251,,,75.4,F
+adni,135219.0,1249,,,72.9,F
+adni,277108.0,4441,,,68.8,F
+adni,1512668.0,7024,,,74.0,M
+adni,272184.0,4422,,,70.9,F
+adni,315857.0,4835,,,79.4,M
+adni,1052843.0,6578,,,66.9,M
+adni,274826.0,4262,,,73.1,F
+adni,296640.0,4400,,,71.5,M
+adni,15416.0,419,,,70.3,M
+adni,995457.0,6335,,,67.2,M
+adni,963153.0,6224,,,75.9,F
+adni,366226.0,315,,,78.7,M
+adni,29113.0,298,,,77.2,M
+adni,296859.0,4580,,,69.8,F
+adni,262075.0,4257,,,79.0,M
+adni,35796.0,69,,,74.1,M
+adni,368892.0,4643,,,66.2,F
+adni,281885.0,4485,,,73.4,M
+adni,139562.0,69,,,76.3,M
+adni,927419.0,6118,,,74.7,F
+adni,234915.0,4032,,,70.3,F
+adni,104996.0,473,,,74.7,M
+adni,1008024.0,6408,,,59.5,F
+adni,110489.0,419,,,72.4,M
+adni,742519.0,419,,,79.4,M
+adni,286909.0,127,,,76.8,M
+adni,140047.0,127,,,73.9,M
+adni,37121.0,67,,,75.8,M
+adni,330167.0,4269,,,66.5,F
+adni,784918.0,4643,,,69.2,F
+adni,9752.0,72,,,70.7,M
+adni,269273.0,4367,,,65.2,F
+adni,327809.0,4399,,,78.7,F
+adni,420747.0,315,,,79.7,M
+adni,71249.0,1286,,,76.2,F
+adni,15800.0,413,,,76.4,F
+adni,299157.0,4262,,,73.4,F
+adni,30039.0,969,,,70.1,M
+adni,420742.0,315,,,79.7,M
+adni,245344.0,419,,,75.5,M
+adni,144390.0,210,,,75.7,F
+adni,36129.0,1212,,,75.4,F
+adni,114293.0,210,,,74.9,F
+adni,353952.0,72,,,77.7,M
+adni,575601.0,4270,,,78.9,F
+adni,37333.0,1191,,,78.9,M
+adni,37456.0,106,,,74.3,F
+adni,71218.0,1286,,,76.2,F
+adni,418006.0,1261,,,78.3,F
+adni,139561.0,69,,,76.3,M
+adni,259798.0,4264,,,74.2,F
+adni,301753.0,4270,,,75.3,F
+adni,141973.0,298,,,79.6,M
+adni,58542.0,637,,,77.2,F
+adni,1018523.0,6448,,,67.8,M
+adni,362228.0,4496,,,77.3,F
+adni,309724.0,4578,,,69.5,F
+adni,17079.0,420,,,73.6,M
+adni,81038.0,35,,,79.1,M
+adni,659919.0,4578,,,73.3,F
+adni,129993.0,969,,,72.2,M
+adni,350457.0,4442,,,75.2,F
+adni,353956.0,72,,,77.7,M
+adni,88394.0,72,,,72.8,M
+adni,56726.0,479,,,74.6,F
+adni,335995.0,4213,,,79.1,F
+adni,575600.0,4270,,,78.9,F
+adni,37403.0,1212,,,75.4,F
+adni,341921.0,4469,,,66.8,M
+adni,213947.0,106,,,78.3,F
+adni,401664.0,4367,,,67.3,F
+adni,320521.0,4257,,,79.8,M
+adni,30482.0,472,,,72.5,M
+adni,290926.0,4213,,,78.6,F
+adni,421361.0,4643,,,67.2,F
+adni,349323.0,4357,,,74.8,F
+adni,105150.0,298,,,78.7,M
+adni,105149.0,298,,,78.7,M
+adni,38370.0,1191,,,79.0,M
+adni,909607.0,4400,,,76.9,M
+adni,227314.0,315,,,76.7,M
+adni,395974.0,731,,,78.9,M
+adni,53899.0,298,,,77.7,M
+adni,30481.0,472,,,72.5,M
+adni,1472002.0,6037,,,71.1,M
+adni,55783.0,413,,,77.5,F
+adni,286905.0,127,,,76.8,M
+adni,55460.0,1009,,,76.5,M
+adni,301756.0,4270,,,75.3,F
+adni,139577.0,1286,,,77.8,F
+adni,989757.0,6326,,,75.8,M
+adni,15270.0,479,,,73.6,F
+adni,83618.0,1009,,,77.0,M
+adni,55782.0,413,,,77.5,F
+adni,871899.0,6043,,,78.9,M
+adni,19183.0,55,,,76.3,M
+adni,257274.0,4225,,,70.0,M
+adni,561269.0,498,,,80.0,M
+adni,70984.0,1169,,,72.9,F
+adni,416762.0,4345,,,72.1,M
+adni,119253.0,886,,,73.4,F
+adni,118189.0,420,,,75.8,M
+adni,350833.0,4369,,,69.5,M
+adni,24270.0,113,,,75.8,M
+adni,147771.0,618,,,78.1,M
+adni,210967.0,72,,,75.8,M
+adni,298513.0,4449,,,67.2,F
+adni,41798.0,1261,,,71.3,F
+adni,247680.0,473,,,77.6,M
+adni,12663.0,369,,,76.1,M
+adni,13393.0,298,,,76.6,M
+adni,131757.0,1009,,,78.0,M
+adni,138396.0,113,,,78.3,M
+adni,495348.0,4037,,,79.8,M
+adni,395717.0,4278,,,77.1,M
+adni,331952.0,4921,,,66.8,M
+adni,274494.0,4424,,,66.2,F
+adni,1457246.0,6969,,,68.5,M
+adni,30898.0,534,,,63.5,M
+adni,31788.0,493,,,78.2,M
+adni,942773.0,4448,,,69.7,F
+adni,700093.0,4587,,,69.9,F
+adni,137512.0,1123,,,78.2,F
+adni,146353.0,545,,,75.0,M
+adni,13560.0,31,,,78.3,F
+adni,361462.0,4320,,,72.1,F
+adni,1294355.0,6200,,,74.3,M
+adni,78417.0,22,,,65.3,M
+adni,41010.0,257,,,79.5,F
+adni,341152.0,4599,,,60.6,M
+adni,290031.0,4410,,,69.4,F
+adni,276963.0,4391,,,74.6,M
+adni,756261.0,4401,,,72.1,F
+adni,80814.0,1276,,,72.6,F
+adni,37937.0,525,,,70.8,F
+adni,255713.0,4075,,,73.7,M
+adni,9362.0,59,,,71.0,F
+adni,331950.0,4921,,,66.8,M
+adni,1335384.0,6113,,,79.0,M
+adni,1018186.0,6416,,,69.3,F
+adni,273192.0,4427,,,71.4,M
+adni,267459.0,4266,,,70.0,F
+adni,1469708.0,6907,,,66.4,M
+adni,240491.0,4080,,,78.7,F
+adni,91522.0,1123,,,77.2,F
+adni,323434.0,4632,,,68.1,M
+adni,334194.0,4208,,,79.3,M
+adni,294193.0,4196,,,79.1,M
+adni,102942.0,97,,,75.1,F
+adni,895056.0,6069,,,73.6,F
+adni,30914.0,23,,,72.9,M
+adni,26218.0,272,,,71.1,F
+adni,987768.0,6318,,,69.5,F
+adni,1040036.0,6561,,,68.3,M
+adni,436266.0,1242,,,72.3,F
+adni,423071.0,4607,,,58.3,F
+adni,348239.0,4382,,,77.0,F
+adni,416808.0,4482,,,79.4,F
+adni,23927.0,818,,,74.1,F
+adni,1006806.0,6386,,,69.0,F
+adni,251751.0,4151,,,72.4,M
+adni,1355445.0,6251,,,68.1,F
+adni,255946.0,4076,,,72.9,F
+adni,870102.0,6031,,,67.3,F
+adni,103236.0,352,,,79.2,F
+adni,133850.0,1190,,,78.7,F
+adni,1031685.0,6492,,,69.9,F
+adni,308587.0,4337,,,72.6,M
+adni,368465.0,4552,,,64.4,M
+adni,138303.0,166,,,75.6,F
+adni,152575.0,522,,,73.1,M
+adni,44183.0,130,,,74.3,M
+adni,966802.0,6199,,,69.2,M
+adni,336773.0,4520,,,68.6,M
+adni,1496150.0,6797,,,69.3,F
+adni,1264670.0,6116,,,71.7,F
+adni,512365.0,4856,,,68.3,F
+adni,42711.0,767,,,73.7,F
+adni,90054.0,1249,,,71.9,F
+adni,42154.0,1249,,,71.0,F
+adni,404020.0,4427,,,73.5,M
+adni,160672.0,1098,,,75.1,F
+adni,16437.0,488,,,71.0,F
+adni,107615.0,382,,,77.7,F
+adni,1576822.0,6415,,,76.0,F
+adni,421137.0,4580,,,71.9,F
+adni,1336238.0,6454,,,74.6,F
+adni,346460.0,4337,,,73.1,M
+adni,321505.0,4878,,,72.9,F
+adni,1214909.0,6187,,,75.7,F
+adni,91523.0,1123,,,77.2,F
+adni,337413.0,4196,,,79.6,M
+adni,1043685.0,4224,,,77.3,M
+adni,81121.0,1123,,,76.9,F
+adni,1591453.0,7072,,,62.7,F
+adni,148487.0,479,,,76.7,F
+adni,339110.0,89,,,71.9,M
+adni,273678.0,4428,,,72.6,M
+adni,354998.0,4391,,,75.6,M
+adni,395726.0,4278,,,77.1,M
+adni,8959.0,48,,,78.4,M
+adni,113112.0,601,,,78.8,F
+adni,1136571.0,6178,,,67.1,F
+adni,334207.0,4482,,,77.9,F
+adni,1227239.0,6575,,,74.5,M
+adni,881980.0,4277,,,77.3,F
+adni,1366966.0,4520,,,76.6,M
+adni,63674.0,672,,,63.2,F
+adni,323439.0,4632,,,68.1,M
+adni,351092.0,4164,,,74.0,M
+adni,354375.0,4427,,,72.5,M
+adni,982444.0,4483,,,75.8,F
+adni,436671.0,4586,,,78.2,M
+adni,14612.0,534,,,62.9,M
+adni,1016587.0,6472,,,67.6,F
+adni,979816.0,6250,,,72.0,F
+adni,145242.0,555,,,79.6,M
+abide,329381.0,50030,,,25.1,M
+abide,328971.0,50039,,,30.7,M
+abide,328888.0,50040,,,24.6,M
+abide,328896.0,50041,,,27.9,M
+abide,328821.0,50042,,,33.2,M
+abide,328374.0,50046,,,20.6,M
+abide,329195.0,50052,,,33.2,M
+abide,328370.0,50058,,,23.1,M
+abide,329321.0,50059,,,21.2,F
+abide,328442.0,50060,,,20.3,M
+abide,328592.0,50108,,,21.0,M
+abide,328797.0,50109,,,20.0,M
+abide,329004.0,50114,,,20.0,F
+abide,329064.0,50115,,,23.0,M
+abide,328338.0,50117,,,21.0,M
+abide,330289.0,50260,,,20.3,M
+abide,330292.0,50261,,,20.1,M
+abide,330340.0,50262,,,21.3,M
+abide,330296.0,50264,,,25.7,M
+abide,328348.0,50439,,,22.6,M
+abide,329335.0,50440,,,23.9,M
+abide,328784.0,50441,,,27.6,M
+abide,328487.0,50442,,,26.9,M
+abide,329464.0,50444,,,25.0,M
+abide,329430.0,50446,,,27.3,M
+abide,328990.0,50450,,,21.1,M
+abide,328670.0,50452,,,30.0,M
+abide,329465.0,50455,,,31.3,M
+abide,328542.0,50457,,,34.1,M
+abide,329222.0,50458,,,26.1,M
+abide,328391.0,50462,,,24.7,M
+abide,329078.0,50463,,,28.4,M
+abide,329265.0,50465,,,34.0,M
+abide,329341.0,50466,,,39.3,M
+abide,328651.0,50468,,,39.4,M
+abide,328399.0,50469,,,28.6,M
+abide,329012.0,50471,,,25.0,M
+abide,329188.0,50472,,,22.1,M
+abide,329457.0,50473,,,22.4,M
+abide,329317.0,50474,,,22.0,M
+abide,329178.0,50682,,,23.0,M
+abide,329215.0,50683,,,24.0,M
+abide,329413.0,50685,,,23.0,M
+abide,328322.0,50687,,,22.0,M
+abide,329268.0,50688,,,21.0,M
+abide,328408.0,50691,,,22.0,M
+abide,329282.0,50692,,,22.0,M
+abide,328538.0,50698,,,28.0,M
+abide,329029.0,50699,,,21.0,M
+abide,328554.0,50703,,,29.0,M
+abide,329418.0,50706,,,22.0,M
+abide,329116.0,50707,,,22.0,M
+abide,328750.0,50709,,,25.0,M
+abide,329159.0,50710,,,27.0,M
+abide,329216.0,51057,,,21.6,F
+abide,328558.0,51058,,,22.1,F
+abide,328677.0,51059,,,22.8,F
+abide,328329.0,51060,,,22.7,F
+abide,328395.0,51061,,,27.0,F
+abide,328512.0,51062,,,27.8,F
+abide,329005.0,51063,,,29.1,F
+abide,329331.0,51067,,,23.6,M
+abide,328725.0,51068,,,31.8,M
+abide,328372.0,51113,,,22.4,M
+abide,328706.0,51114,,,22.5,M
+abide,328477.0,51115,,,22.8,M
+abide,329338.0,51116,,,25.3,M
+abide,328683.0,51117,,,28.2,M
+abide,328832.0,51118,,,29.0,M
+abide,329346.0,51119,,,30.7,M
+abide,330304.0,51132,,,24.8,M
+abide,329155.0,51146,,,20.0,M
+abide,328838.0,51147,,,20.0,M
+abide,328957.0,51148,,,20.3,M
+abide,329434.0,51149,,,20.6,M
+abide,329121.0,51150,,,22.8,M
+abide,328810.0,51151,,,23.1,M
+abide,329440.0,51152,,,23.4,M
+abide,329135.0,51153,,,26.2,M
+abide,329329.0,51154,,,30.1,M
+abide,328960.0,51155,,,30.8,M
+abide,329140.0,51156,,,21.1,M
+abide,329044.0,51332,,,23.0,M
+abide,328590.0,51333,,,24.0,M
+abide,329372.0,51334,,,27.0,M
+abide,328624.0,51335,,,23.0,M
+abide,328531.0,51336,,,26.0,M
+abide,329163.0,51338,,,30.0,M
+abide,328834.0,51339,,,29.0,M
+abide,328332.0,51340,,,29.0,M
+abide,329021.0,51341,,,29.0,M
+abide,329042.0,51342,,,23.0,M
+abide,328584.0,51343,,,30.0,M
+abide,328807.0,51344,,,22.0,M
+abide,329351.0,51345,,,35.0,M
+abide,329278.0,51346,,,25.0,M
+abide,328456.0,51347,,,24.0,M
+abide,328459.0,51362,,,33.0,M
+abide,328544.0,51363,,,32.0,M
+abide,328905.0,51364,,,26.0,M
+abide,328874.0,51365,,,23.0,M
+abide,329378.0,51366,,,32.0,F
+abide,328404.0,51367,,,21.0,M
+abide,328949.0,51368,,,28.0,F
+abide,328812.0,51369,,,32.0,M
+abide,328472.0,51370,,,32.0,F
+abide,329327.0,51371,,,48.0,M
+abide,329257.0,51372,,,46.0,F
+abide,329010.0,51475,,,44.2,M
+abide,328824.0,51476,,,39.3,M
+abide,329043.0,51477,,,42.5,M
+abide,328365.0,51479,,,20.0,F
+abide,329360.0,51480,,,20.8,F
+abide,328902.0,51481,,,27.9,M
+abide,329421.0,51482,,,21.1,F
+abide,328647.0,51483,,,20.9,M
+abide,329324.0,51484,,,23.6,M
+abide,329000.0,51485,,,23.9,M
+abide,328935.0,51486,,,22.0,M
+abide,329158.0,51488,,,23.3,M
+abide,328977.0,51489,,,34.1,M
+abide,328403.0,51490,,,44.1,M
+abide,329218.0,51491,,,56.2,M
+abide,328455.0,51493,,,29.2,F
+abide,328448.0,51556,,,20.0,M
+abide,328390.0,51557,,,26.0,M
+abide,329352.0,51558,,,27.0,M
+abide,328379.0,51559,,,27.0,M
+abide,329314.0,51560,,,27.0,M
+abide,329227.0,51561,,,36.0,M
+abide,328445.0,51562,,,37.0,M
+abide,328849.0,51563,,,38.0,M
+abide,328801.0,51564,,,39.0,M
+abide,329150.0,51565,,,39.0,M
+abide,329127.0,51566,,,41.0,M
+abide,329120.0,51567,,,34.0,M
+abide,328478.0,51568,,,37.0,M
+abide,329230.0,51569,,,36.0,M
+abide,329382.0,51570,,,42.0,M
+ppmi,1493049.0,100890,,,78.2,M
+ppmi,1496277.0,101039,,,63.2,F
+ppmi,1495885.0,101747,,,61.9,M
+ppmi,1519053.0,106127,,,53.6,F
+ppmi,1519089.0,110686,,,69.4,M
+ppmi,1519096.0,113369,,,69.2,M
+ppmi,1537614.0,120545,,,79.7,M
+ppmi,1561813.0,130028,,,63.3,F
+ppmi,1548733.0,130190,,,50.7,F
+ppmi,1616745.0,137499,,,52.2,M
+ppmi,1575216.0,140451,,,46.3,M
+ppmi,1616839.0,141714,,,75.7,F
+ppmi,1581574.0,141893,,,71.2,F
+ppmi,1581575.0,141893,,,71.2,F
+ppmi,1582625.0,149716,,,72.7,F
+ppmi,1652981.0,156459,,,61.3,F
+ppmi,1621890.0,157434,,,59.6,F
+ppmi,1678671.0,187759,,,76.0,M
+ppmi,223774.0,3053,,,68.6,M
+ppmi,223786.0,3055,,,68.8,F
+ppmi,224530.0,3057,,,60.0,F
+ppmi,232099.0,3063,,,40.3,F
+ppmi,243198.0,3064,,,60.5,F
+ppmi,260288.0,3069,,,54.0,F
+ppmi,260294.0,3072,,,47.2,F
+ppmi,226398.0,3104,,,72.0,M
+ppmi,301552.0,3104,,,73.2,M
+ppmi,235251.0,3106,,,70.2,F
+ppmi,301564.0,3106,,,71.3,F
+ppmi,491581.0,3106,,,74.2,F
+ppmi,243563.0,3112,,,62.7,F
+ppmi,315614.0,3112,,,63.6,F
+ppmi,253901.0,3114,,,63.9,F
+ppmi,353464.0,3114,,,64.9,F
+ppmi,253995.0,3115,,,61.3,M
+ppmi,337535.0,3115,,,62.2,M
+ppmi,243571.0,3151,,,57.5,M
+ppmi,296443.0,3151,,,58.6,M
+ppmi,243615.0,3156,,,69.7,M
+ppmi,243701.0,3157,,,64.1,F
+ppmi,301582.0,3157,,,65.2,F
+ppmi,243732.0,3160,,,79.8,M
+ppmi,249254.0,3161,,,44.8,M
+ppmi,334591.0,3161,,,45.9,M
+ppmi,243774.0,3165,,,58.9,F
+ppmi,307201.0,3165,,,59.8,F
+ppmi,275545.0,3169,,,57.0,M
+ppmi,351188.0,3169,,,58.0,M
+ppmi,275553.0,3171,,,61.3,M
+ppmi,369349.0,3171,,,62.5,M
+ppmi,282107.0,3172,,,70.0,M
+ppmi,357674.0,3172,,,71.1,M
+ppmi,367304.0,3188,,,70.7,M
+ppmi,468920.0,3188,,,72.3,M
+ppmi,372986.0,3191,,,66.3,F
+ppmi,436379.0,3191,,,67.4,F
+ppmi,226405.0,3300,,,52.1,M
+ppmi,344327.0,3300,,,53.1,M
+ppmi,226414.0,3301,,,52.4,M
+ppmi,301592.0,3301,,,53.4,M
+ppmi,378250.0,3301,,,54.6,M
+ppmi,498900.0,3301,,,56.5,M
+ppmi,282114.0,3310,,,64.9,M
+ppmi,369418.0,3310,,,65.9,M
+ppmi,305951.0,3316,,,74.7,M
+ppmi,423724.0,3316,,,76.6,M
+ppmi,374887.0,3318,,,65.7,M
+ppmi,440165.0,3318,,,66.7,M
+ppmi,315644.0,3318,,,64.8,M
+ppmi,315651.0,3320,,,56.0,M
+ppmi,249425.0,3350,,,78.9,M
+ppmi,296478.0,3350,,,79.9,M
+ppmi,508248.0,3351,,,71.7,M
+ppmi,249434.0,3353,,,56.0,F
+ppmi,296488.0,3353,,,57.0,F
+ppmi,515217.0,3353,,,60.2,F
+ppmi,249440.0,3355,,,32.3,M
+ppmi,369468.0,3355,,,33.4,M
+ppmi,249447.0,3357,,,44.0,M
+ppmi,296498.0,3357,,,44.9,M
+ppmi,515225.0,3357,,,48.4,M
+ppmi,249449.0,3358,,,48.9,M
+ppmi,307218.0,3358,,,50.0,M
+ppmi,243242.0,3361,,,56.3,F
+ppmi,315628.0,3361,,,57.4,F
+ppmi,581043.0,3361,,,60.8,F
+ppmi,581047.0,3361,,,60.8,F
+ppmi,270008.0,3362,,,41.6,F
+ppmi,265352.0,3368,,,53.3,F
+ppmi,369477.0,3368,,,54.6,F
+ppmi,259639.0,3369,,,44.0,M
+ppmi,337603.0,3369,,,44.9,M
+ppmi,544621.0,3369,,,48.1,M
+ppmi,282121.0,3370,,,40.2,M
+ppmi,367344.0,3389,,,71.5,M
+ppmi,417039.0,3389,,,72.5,M
+ppmi,374736.0,3390,,,66.0,M
+ppmi,436381.0,3390,,,67.1,M
+ppmi,224191.0,3450,,,51.7,M
+ppmi,224215.0,3452,,,64.3,F
+ppmi,224244.0,3453,,,59.7,F
+ppmi,232103.0,3457,,,63.1,F
+ppmi,264680.0,3464,,,51.2,M
+ppmi,310306.0,3466,,,48.3,M
+ppmi,287580.0,3468,,,57.4,M
+ppmi,362002.0,3478,,,76.9,M
+ppmi,362007.0,3479,,,57.8,M
+ppmi,362010.0,3480,,,72.3,F
+ppmi,362013.0,3481,,,62.6,M
+ppmi,368579.0,3503,,,31.9,F
+ppmi,374091.0,3515,,,73.6,F
+ppmi,260386.0,3517,,,45.5,M
+ppmi,264690.0,3518,,,72.9,M
+ppmi,374097.0,3521,,,64.6,M
+ppmi,374114.0,3523,,,63.7,M
+ppmi,374118.0,3525,,,55.6,M
+ppmi,282830.0,3526,,,61.4,M
+ppmi,282833.0,3527,,,62.0,M
+ppmi,363973.0,3541,,,65.7,M
+ppmi,362040.0,3544,,,69.9,M
+ppmi,226425.0,3551,,,64.0,M
+ppmi,296522.0,3551,,,65.1,M
+ppmi,548982.0,3551,,,69.0,M
+ppmi,548986.0,3551,,,69.0,M
+ppmi,249264.0,3554,,,75.4,M
+ppmi,307276.0,3554,,,76.5,M
+ppmi,482316.0,3554,,,79.5,M
+ppmi,238001.0,3555,,,39.8,M
+ppmi,265355.0,3563,,,60.0,M
+ppmi,344357.0,3563,,,61.3,M
+ppmi,548990.0,3563,,,64.3,M
+ppmi,249270.0,3565,,,54.0,M
+ppmi,344360.0,3565,,,55.1,M
+ppmi,560372.0,3565,,,58.1,M
+ppmi,249281.0,3569,,,40.3,F
+ppmi,344382.0,3569,,,41.5,F
+ppmi,548998.0,3569,,,44.5,F
+ppmi,249289.0,3570,,,72.3,M
+ppmi,340737.0,3570,,,73.5,M
+ppmi,265405.0,3571,,,45.8,M
+ppmi,365202.0,3571,,,46.8,M
+ppmi,615265.0,3571,,,50.1,M
+ppmi,615268.0,3571,,,50.1,M
+ppmi,287931.0,3572,,,57.7,F
+ppmi,344390.0,3572,,,58.8,F
+ppmi,232120.0,3600,,,55.4,M
+ppmi,243291.0,3610,,,60.0,F
+ppmi,243297.0,3611,,,41.8,F
+ppmi,249479.0,3613,,,55.7,F
+ppmi,252792.0,3613,,,55.7,F
+ppmi,249482.0,3614,,,62.3,M
+ppmi,260391.0,3615,,,66.2,M
+ppmi,275299.0,3620,,,69.2,M
+ppmi,287603.0,3624,,,61.0,M
+ppmi,352220.0,3627,,,59.1,M
+ppmi,362045.0,3635,,,56.7,M
+ppmi,362046.0,3636,,,64.2,M
+ppmi,363979.0,3637,,,57.2,M
+ppmi,353402.0,3750,,,53.0,M
+ppmi,353477.0,3750,,,54.4,M
+ppmi,269524.0,3756,,,65.4,M
+ppmi,353588.0,3756,,,66.4,M
+ppmi,282151.0,3759,,,54.8,F
+ppmi,357722.0,3759,,,55.9,F
+ppmi,288122.0,3765,,,68.9,F
+ppmi,353654.0,3765,,,69.9,F
+ppmi,288146.0,3767,,,52.5,F
+ppmi,357747.0,3767,,,53.6,F
+ppmi,301540.0,3768,,,60.0,M
+ppmi,357765.0,3768,,,61.0,M
+ppmi,301546.0,3769,,,71.0,M
+ppmi,362613.0,3769,,,72.1,M
+ppmi,323005.0,3779,,,56.5,M
+ppmi,382354.0,3779,,,57.5,M
+ppmi,365108.0,3803,,,69.2,F
+ppmi,340756.0,3803,,,70.2,F
+ppmi,269556.0,3804,,,60.1,F
+ppmi,269563.0,3805,,,56.2,F
+ppmi,340761.0,3805,,,57.2,F
+ppmi,269566.0,3806,,,59.2,F
+ppmi,340769.0,3806,,,60.2,F
+ppmi,269570.0,3807,,,73.2,F
+ppmi,340795.0,3807,,,74.2,F
+ppmi,269579.0,3809,,,53.3,F
+ppmi,269591.0,3811,,,67.3,M
+ppmi,344401.0,3811,,,68.3,M
+ppmi,269597.0,3812,,,64.4,F
+ppmi,337606.0,3812,,,65.3,F
+ppmi,275576.0,3813,,,65.4,M
+ppmi,344403.0,3813,,,66.4,M
+ppmi,340645.0,3816,,,64.5,M
+ppmi,357779.0,3816,,,65.5,M
+ppmi,340648.0,3817,,,73.6,M
+ppmi,362630.0,3817,,,74.6,M
+ppmi,238036.0,3850,,,50.3,F
+ppmi,340804.0,3850,,,51.4,F
+ppmi,395241.0,3851,,,54.1,F
+ppmi,340809.0,3851,,,55.3,F
+ppmi,440272.0,3851,,,55.3,F
+ppmi,393535.0,3851,,,56.1,F
+ppmi,243810.0,3852,,,76.8,M
+ppmi,340819.0,3852,,,77.9,M
+ppmi,395247.0,3852,,,78.8,M
+ppmi,440275.0,3852,,,79.8,M
+ppmi,243816.0,3853,,,46.7,M
+ppmi,425376.0,3853,,,48.8,M
+ppmi,440278.0,3853,,,49.7,M
+ppmi,243820.0,3854,,,30.6,M
+ppmi,340824.0,3854,,,31.7,M
+ppmi,395250.0,3854,,,32.6,M
+ppmi,243829.0,3855,,,48.8,F
+ppmi,395276.0,3855,,,49.9,F
+ppmi,393700.0,3855,,,50.9,F
+ppmi,395284.0,3857,,,40.6,F
+ppmi,395287.0,3857,,,41.7,F
+ppmi,414646.0,3857,,,42.7,F
+ppmi,378565.0,3859,,,59.8,M
+ppmi,395294.0,3859,,,60.8,M
+ppmi,397633.0,3859,,,61.8,M
+ppmi,275717.0,4004,,,65.0,F
+ppmi,340854.0,4004,,,65.9,F
+ppmi,288213.0,4010,,,42.2,M
+ppmi,340891.0,4010,,,43.3,M
+ppmi,334563.0,4018,,,63.9,M
+ppmi,365287.0,4018,,,65.0,M
+ppmi,367385.0,4032,,,68.0,M
+ppmi,417044.0,4032,,,69.1,M
+ppmi,356067.0,4067,,,61.6,M
+ppmi,377941.0,4085,,,66.7,M
+ppmi,507833.0,4085,,,68.8,M
+ppmi,864810.0,4085,,,70.6,M
+ppmi,864811.0,4085,,,70.6,M
+ppmi,864812.0,4085,,,70.6,M
+ppmi,1044936.0,4085,,,71.8,M
+ppmi,1044937.0,4085,,,71.8,M
+ppmi,355404.0,4090,,,57.5,M
+ppmi,355420.0,4100,,,58.2,M
+ppmi,364057.0,4104,,,66.4,M
+ppmi,355434.0,4105,,,66.8,M
+ppmi,372218.0,4116,,,64.5,M
+ppmi,372227.0,4118,,,68.1,F
+cobre,,4087,,4.0,44.0,M
+cobre,,7409,,1.0,48.0,M
+cobre,,10150,,3.0,43.0,M
+cobre,,12995,,2.0,49.0,M
+cobre,,13140,,2.0,35.0,M
+cobre,,13363,,2.0,44.0,M
+cobre,,13363,,1.0,44.0,M
+cobre,,13816,,2.0,24.0,M
+cobre,,14120,,2.0,38.0,M
+cobre,,14120,,1.0,38.0,M
+cobre,,14225,,2.0,41.0,F
+cobre,,14839,,2.0,32.0,F
+cobre,,15759,,2.0,54.0,F
+cobre,,15759,,1.0,54.0,F
+cobre,,17294,,2.0,59.0,F
+cobre,,18716,,1.0,31.0,M
+cobre,,19888,,1.0,48.0,M
+cobre,,20895,,2.0,43.0,M
+cobre,,20968,,2.0,29.0,F
+cobre,,20968,,1.0,29.0,F
+cobre,,21058,,2.0,37.0,M
+cobre,,21072,,2.0,45.0,F
+cobre,,21072,,1.0,45.0,F
+cobre,,21081,,3.0,24.0,M
+cobre,,21085,,2.0,23.0,F
+cobre,,22490,,2.0,24.0,F
+cobre,,22490,,3.0,24.0,F
+cobre,,22619,,3.0,52.0,M
+cobre,,22619,,1.0,52.0,M
+cobre,,22653,,2.0,30.0,F
+cobre,,22810,,2.0,35.0,F
+cobre,,22915,,3.0,45.0,M
+cobre,,23095,,2.0,21.0,M
+cobre,,23131,,1.0,36.0,M
+cobre,,23143,,1.0,27.0,F
+cobre,,23143,,2.0,27.0,F
+cobre,,23143,,3.0,27.0,F
+cobre,,23330,,2.0,29.0,M
+cobre,,23337,,1.0,21.0,M
+cobre,,23730,,1.0,51.0,M
+cobre,,23800,,2.0,48.0,M
+cobre,,23800,,3.0,48.0,M
+cobre,,23848,,2.0,38.0,M
+cobre,,23866,,4.0,23.0,M
+cobre,,23866,,1.0,23.0,M
+cobre,,24160,,1.0,23.0,M
+cobre,,24301,,2.0,25.0,F
+cobre,,24372,,2.0,23.0,M
+cobre,,24535,,2.0,26.0,M
+cobre,,24535,,1.0,26.0,M
+cobre,,24663,,2.0,63.0,M
+cobre,,24955,,2.0,59.0,M
+cobre,,26907,,4.0,43.0,F
+cobre,,26945,,2.0,39.0,M
+cobre,,27787,,4.0,34.0,F
+cobre,,28409,,1.0,31.0,M
+cobre,,29226,,2.0,37.0,F
+cobre,,29452,,2.0,39.0,M
+cobre,,31478,,1.0,43.0,F
+cobre,,35751,,2.0,42.0,M
+cobre,,35751,,1.0,42.0,M
+cobre,,36555,,2.0,52.0,M
+cobre,,36916,,2.0,55.0,M
+cobre,,37238,,1.0,38.0,M
+cobre,,4087,,1.0,44.0,M
+cobre,,7409,,3.0,48.0,M
+cobre,,10150,,2.0,43.0,M
+cobre,,11265,,1.0,22.0,F
+cobre,,11725,,1.0,49.0,M
+cobre,,13816,,1.0,24.0,M
+cobre,,17294,,1.0,59.0,F
+cobre,,18335,,1.0,51.0,F
+cobre,,18716,,2.0,31.0,M
+cobre,,18716,,3.0,31.0,M
+cobre,,18716,,4.0,31.0,M
+cobre,,19888,,2.0,48.0,M
+cobre,,20805,,2.0,27.0,M
+cobre,,21058,,1.0,37.0,M
+cobre,,21058,,4.0,37.0,M
+cobre,,21081,,2.0,24.0,M
+cobre,,21145,,2.0,25.0,M
+cobre,,21145,,1.0,25.0,M
+cobre,,22490,,4.0,24.0,F
+cobre,,22592,,2.0,53.0,F
+cobre,,22592,,1.0,53.0,F
+cobre,,22619,,2.0,52.0,M
+cobre,,22653,,1.0,30.0,F
+cobre,,22727,,2.0,39.0,M
+cobre,,22727,,1.0,39.0,M
+cobre,,22773,,2.0,48.0,M
+cobre,,22835,,2.0,28.0,M
+cobre,,22837,,1.0,26.0,M
+cobre,,22837,,2.0,26.0,M
+cobre,,22915,,1.0,45.0,M
+cobre,,23095,,1.0,21.0,M
+cobre,,23120,,2.0,47.0,M
+cobre,,23131,,2.0,36.0,M
+cobre,,23131,,4.0,36.0,M
+cobre,,23330,,1.0,29.0,M
+cobre,,23800,,4.0,48.0,M
+cobre,,23800,,1.0,48.0,M
+cobre,,23848,,4.0,38.0,M
+cobre,,23866,,2.0,23.0,M
+cobre,,23866,,3.0,23.0,M
+cobre,,24301,,1.0,25.0,F
+cobre,,24372,,1.0,23.0,M
+cobre,,24446,,1.0,41.0,F
+cobre,,24446,,2.0,41.0,F
+cobre,,24546,,2.0,23.0,M
+cobre,,24546,,1.0,23.0,M
+cobre,,24820,,1.0,34.0,M
+cobre,,24820,,2.0,34.0,M
+cobre,,26945,,3.0,39.0,M
+cobre,,26945,,4.0,39.0,M
+cobre,,27787,,2.0,34.0,F
+cobre,,27787,,3.0,34.0,F
+cobre,,28406,,2.0,31.0,F
+cobre,,31478,,2.0,43.0,F
+cobre,,31764,,1.0,37.0,F
+cobre,,31764,,2.0,37.0,F
+cobre,,33214,,1.0,54.0,M
+cobre,,37007,,1.0,60.0,M
+cobre,,37564,,2.0,50.0,M
+cobre,,37564,,1.0,50.0,M
+cobre,,37665,,2.0,43.0,M
+cobre,,1,,2.0,36.0,M
+cobre,,2,,2.0,35.0,M
+cobre,,2,,4.0,35.0,M
+cobre,,13140,,1.0,35.0,M
+cobre,,14522,,2.0,65.0,M
+cobre,,14522,,1.0,65.0,M
+cobre,,15826,,2.0,27.0,M
+cobre,,20805,,4.0,27.0,M
+cobre,,21058,,3.0,37.0,M
+cobre,,21081,,1.0,24.0,M
+cobre,,21085,,1.0,23.0,F
+cobre,,22490,,1.0,24.0,F
+cobre,,22619,,4.0,52.0,M
+cobre,,22810,,1.0,35.0,F
+cobre,,22835,,3.0,28.0,M
+cobre,,22915,,2.0,45.0,M
+cobre,,22915,,4.0,45.0,M
+cobre,,23120,,1.0,47.0,M
+cobre,,23131,,3.0,36.0,M
+cobre,,23848,,1.0,38.0,M
+cobre,,24160,,2.0,23.0,M
+cobre,,24372,,5.0,23.0,M
+cobre,,24663,,1.0,63.0,M
+cobre,,26907,,2.0,43.0,F
+cobre,,27487,,1.0,53.0,M
+cobre,,28052,,2.0,34.0,F
+cobre,,28406,,1.0,31.0,F
+cobre,,29452,,1.0,39.0,M
+cobre,,33214,,2.0,54.0,M
+cobre,,36555,,1.0,52.0,M
+cobre,,36844,,2.0,55.0,M
+cobre,,37318,,1.0,53.0,M
+cobre,,2,,3.0,35.0,M
+cobre,,3150,,3.0,32.0,M
+cobre,,9946,,2.0,35.0,M
+cobre,,10150,,4.0,43.0,M
+cobre,,11265,,2.0,22.0,F
+cobre,,12995,,1.0,49.0,M
+cobre,,14839,,1.0,32.0,F
+cobre,,18335,,2.0,51.0,F
+cobre,,18553,,1.0,34.0,F
+cobre,,20805,,1.0,27.0,M
+cobre,,20895,,1.0,43.0,M
+cobre,,21081,,4.0,24.0,M
+cobre,,22729,,1.0,47.0,F
+cobre,,22773,,1.0,48.0,M
+cobre,,22835,,1.0,28.0,M
+cobre,,23848,,3.0,38.0,M
+cobre,,24372,,4.0,23.0,M
+cobre,,24663,,4.0,63.0,M
+cobre,,24955,,3.0,59.0,M
+cobre,,24955,,4.0,59.0,M
+cobre,,27487,,2.0,53.0,M
+cobre,,29226,,1.0,37.0,F
+cobre,,36049,,2.0,57.0,M
+cobre,,36844,,1.0,55.0,M
+cobre,,37238,,2.0,38.0,M
+cobre,,37318,,2.0,53.0,M
+cobre,,37495,,2.0,49.0,M
+cobre,,4087,,3.0,44.0,M
+cobre,,15826,,1.0,27.0,M
+cobre,,28052,,1.0,34.0,F
+cobre,,22400,,1.0,25.0,M
+cobre,,18553,,2.0,34.0,F
+cobre,,21085,,3.0,23.0,F
+cobre,,36049,,1.0,57.0,M
+cobre,,20984,,2.0,31.0,M
+cobre,,36916,,1.0,55.0,M
+cobre,,21085,,4.0,23.0,F
+cobre,,7409,,2.0,48.0,M
+cobre,,9946,,1.0,35.0,M
+cobre,,4087,,2.0,44.0,M
+cobre,,23730,,2.0,51.0,M
+cobre,,24663,,3.0,63.0,M
+cobre,,24932,,1.0,25.0,F
+cobre,,14898,,1.0,27.0,M
+cobre,,26907,,3.0,43.0,F
+cobre,,7409,,4.0,48.0,M
+cobre,,26907,,1.0,43.0,F
+cobre,,22835,,4.0,28.0,M
+cobre,,37007,,2.0,60.0,M
+cobre,,37495,,1.0,49.0,M
+cobre,,14225,,1.0,41.0,F
+cobre,,11725,,2.0,49.0,M
+cobre,,10684,,2.0,55.0,M
+cobre,,20984,,1.0,31.0,M
+cobre,,10684,,1.0,55.0,M
+cobre,,14898,,2.0,27.0,M
+cobre,,22400,,2.0,25.0,M
+cobre,,10150,,1.0,43.0,M
+cobre,,20805,,3.0,27.0,M
+cobre,,22509,,1.0,27.0,M
+cobre,,22729,,2.0,47.0,F
+cobre,,23143,,4.0,27.0,F
+cobre,,23337,,2.0,21.0,M
+cobre,,24932,,2.0,25.0,F
+cobre,,24955,,1.0,59.0,M
+cobre,,26945,,1.0,39.0,M
+cobre,,27787,,1.0,34.0,F
+cobre,,28409,,2.0,31.0,M
+cobre,,37665,,1.0,43.0,M
+cobre,,3150,,4.0,32.0,M
+mcic,,131,20040101.0,2.0,23.0,F
+mcic,,135,20050101.0,4.0,44.0,F
+mcic,,137,20040101.0,3.0,35.0,M
+mcic,,142,20050101.0,2.0,40.0,F
+mcic,,214,20050101.0,1.0,45.0,M
+mcic,,274,20050101.0,3.0,27.0,M
+mcic,,276,20050101.0,1.0,45.0,M
+mcic,,281,20050101.0,2.0,42.0,M
+mcic,,281,20050101.0,3.0,42.0,M
+mcic,,284,20050101.0,2.0,39.0,M
+mcic,,293,20050101.0,2.0,26.0,F
+mcic,,304,20050101.0,1.0,24.0,F
+mcic,,351,20050101.0,1.0,26.0,F
+mcic,,358,20050101.0,2.0,48.0,M
+mcic,,401,20050101.0,1.0,21.0,M
+mcic,,403,20050101.0,1.0,30.0,M
+mcic,,420,20050101.0,2.0,44.0,F
+mcic,,421,20050101.0,1.0,19.0,F
+mcic,,425,20060101.0,1.0,38.0,F
+mcic,,472,20050101.0,1.0,60.0,F
+mcic,,519,20040101.0,1.0,30.0,M
+mcic,,519,20040101.0,3.0,30.0,M
+mcic,,521,20040101.0,1.0,54.0,M
+mcic,,135,20050101.0,3.0,44.0,F
+mcic,,248,20050101.0,2.0,19.0,M
+mcic,,240,20050101.0,3.0,35.0,M
+mcic,,213,20040101.0,1.0,36.0,M
+mcic,,200,20040101.0,3.0,51.0,M
+mcic,,259,20050101.0,3.0,50.0,M
+mcic,,131,20040101.0,1.0,23.0,F
+mcic,,276,20050101.0,2.0,45.0,M
+mcic,,290,20050101.0,3.0,48.0,F
+mcic,,309,20050101.0,2.0,28.0,F
+mcic,,312,20050101.0,2.0,46.0,M
+mcic,,321,20050101.0,4.0,46.0,F
+mcic,,358,20050101.0,1.0,48.0,M
+mcic,,379,20050101.0,1.0,20.0,F
+mcic,,455,20050101.0,2.0,30.0,M
+mcic,,477,20050101.0,3.0,46.0,M
+mcic,,497,20050101.0,2.0,23.0,M
+mcic,,500,20060101.0,2.0,22.0,M
+mcic,,404,20050101.0,1.0,49.0,M
+mcic,,138,20050101.0,1.0,37.0,M
+mcic,,328,20050101.0,2.0,47.0,M
+mcic,,263,20050101.0,2.0,40.0,F
+mcic,,403,20050101.0,2.0,30.0,M
+mcic,,321,20050101.0,3.0,46.0,F
+mcic,,289,20050101.0,3.0,32.0,M
+mcic,,169,20040101.0,1.0,23.0,F
+mcic,,309,20050101.0,3.0,28.0,F
+mcic,,297,20050101.0,3.0,25.0,F
+mcic,,289,20050101.0,1.0,32.0,M
+mcic,,291,20050101.0,1.0,43.0,M
+mcic,,379,20050101.0,2.0,20.0,F
+mcic,,135,20050101.0,2.0,44.0,F
+mcic,,299,20050101.0,2.0,24.0,F
+mcic,,377,20050101.0,2.0,42.0,M
+mcic,,415,20050101.0,3.0,20.0,M
+mcic,,421,20050101.0,2.0,19.0,F
+mcic,,455,20050101.0,1.0,30.0,M
+mcic,,496,20050101.0,2.0,36.0,M
+mcic,,496,20050101.0,3.0,36.0,M
+mcic,,359,20050101.0,2.0,48.0,M
+mcic,,297,20050101.0,2.0,25.0,F
+mcic,,259,20050101.0,2.0,50.0,M
+mcic,,290,20050101.0,2.0,48.0,F
+mcic,,206,20040101.0,2.0,42.0,M
+mcic,,263,20050101.0,3.0,40.0,F
+mcic,,200,20040101.0,2.0,51.0,M
+mcic,,381,20050101.0,1.0,31.0,M
+mcic,,136,20050101.0,1.0,41.0,F
+mcic,,330,20050101.0,2.0,27.0,M
+mcic,,292,20050101.0,2.0,50.0,M
+mcic,,212,20040101.0,4.0,47.0,M
+mcic,,230,20050101.0,1.0,27.0,M
+mcic,,294,20050101.0,3.0,21.0,F
+mcic,,291,20050101.0,2.0,43.0,M
+mcic,,294,20050101.0,1.0,21.0,F
+mcic,,300,20050101.0,2.0,21.0,F
+mcic,,401,20050101.0,3.0,21.0,M
+mcic,,453,20050101.0,1.0,19.0,M
+mcic,,468,20050101.0,2.0,19.0,M
+mcic,,469,20050101.0,2.0,19.0,M
+mcic,,264,20050101.0,2.0,47.0,M
+mcic,,264,20050101.0,1.0,47.0,M
+mcic,,128,20050101.0,2.0,31.0,M
+mcic,,212,20040101.0,1.0,47.0,M
+mcic,,111,20060101.0,3.0,24.0,M
+mcic,,300,20050101.0,3.0,21.0,F
+mcic,,366,20050101.0,1.0,19.0,M
+mcic,,415,20050101.0,1.0,20.0,M
+mcic,,417,20050101.0,1.0,57.0,M
+mcic,,468,20050101.0,3.0,19.0,M
+mcic,,469,20050101.0,1.0,19.0,M
+mcic,,290,20050101.0,1.0,48.0,F
+mcic,,279,20050101.0,3.0,22.0,F
+mcic,,284,20050101.0,3.0,39.0,M
+mcic,,300,20050101.0,1.0,21.0,F
+mcic,,284,20050101.0,1.0,39.0,M
+mcic,,338,20050101.0,4.0,51.0,F
+mcic,,366,20050101.0,2.0,19.0,M
+mcic,,200,20040101.0,1.0,51.0,M
+mcic,,209,20040101.0,3.0,31.0,M
+mcic,,353,20040101.0,1.0,33.0,F
+mcic,,404,20050101.0,2.0,49.0,M
+mcic,,170,20040101.0,2.0,21.0,M
+mcic,,410,20050101.0,2.0,53.0,M
+mcic,,111,20060101.0,1.0,24.0,M
+mcic,,136,20050101.0,2.0,41.0,F
+mcic,,466,20050101.0,1.0,19.0,M
+mcic,,209,20040101.0,2.0,31.0,M
+mcic,,291,20050101.0,3.0,43.0,M
+mcic,,128,20050101.0,1.0,31.0,M
+mcic,,230,20050101.0,2.0,27.0,M
+mcic,,330,20050101.0,1.0,27.0,M
+mcic,,446,20050101.0,1.0,24.0,F
+mcic,,142,20050101.0,1.0,40.0,F
+mcic,,419,20050101.0,1.0,44.0,F
+mcic,,523,20060101.0,2.0,19.0,M
+mcic,,123,20050101.0,3.0,30.0,M
+mcic,,169,20040101.0,2.0,23.0,F
+mcic,,182,20040101.0,1.0,47.0,M
+mcic,,274,20050101.0,1.0,27.0,M
+mcic,,304,20050101.0,2.0,24.0,F
+mcic,,328,20050101.0,1.0,47.0,M
+mcic,,328,20050101.0,3.0,47.0,M
+mcic,,388,20050101.0,2.0,19.0,F
+mcic,,446,20050101.0,2.0,24.0,F
+mcic,,457,20050101.0,3.0,23.0,M
+mcic,,462,20050101.0,1.0,19.0,M
+mcic,,466,20050101.0,3.0,19.0,M
+mcic,,521,20040101.0,2.0,54.0,M
+mcic,,137,20040101.0,1.0,35.0,M
+mcic,,293,20050101.0,1.0,26.0,F
+mcic,,279,20050101.0,1.0,22.0,F
+mcic,,236,20050101.0,2.0,23.0,M
+mcic,,338,20050101.0,1.0,51.0,F
+mcic,,338,20050101.0,2.0,51.0,F
+mcic,,419,20050101.0,2.0,44.0,F
+mcic,,425,20060101.0,2.0,38.0,F
+mcic,,447,20060101.0,2.0,29.0,M
+mcic,,453,20050101.0,3.0,19.0,M
+mcic,,214,20050101.0,4.0,45.0,M
+mcic,,344,20050101.0,1.0,23.0,F
+mcic,,353,20040101.0,3.0,33.0,F
+mcic,,111,20060101.0,2.0,24.0,M
+mcic,,135,20050101.0,1.0,44.0,F
+mcic,,466,20050101.0,2.0,19.0,M
+mcic,,206,20040101.0,3.0,42.0,M
+mcic,,497,20050101.0,1.0,23.0,M
+mcic,,523,20060101.0,1.0,19.0,M
+mcic,,236,20050101.0,1.0,23.0,M
+mcic,,240,20050101.0,1.0,35.0,M
+mcic,,281,20050101.0,1.0,42.0,M
+mcic,,309,20050101.0,1.0,28.0,F
+mcic,,344,20050101.0,3.0,23.0,F
+mcic,,359,20050101.0,1.0,48.0,M
+mcic,,410,20050101.0,3.0,53.0,M
+mcic,,420,20050101.0,3.0,44.0,F
+mcic,,427,20050101.0,3.0,52.0,M
+mcic,,452,20050101.0,2.0,19.0,M
+mcic,,462,20050101.0,3.0,19.0,M
+mcic,,498,20060101.0,1.0,58.0,M
+mcic,,523,20060101.0,3.0,19.0,M
+mcic,,240,20050101.0,2.0,35.0,M
+mcic,,264,20050101.0,3.0,47.0,M
+mcic,,248,20050101.0,1.0,19.0,M
+mcic,,206,20040101.0,1.0,42.0,M
+mcic,,123,20050101.0,1.0,30.0,M
+mcic,,379,20050101.0,3.0,20.0,F
+mcic,,446,20050101.0,3.0,24.0,F
+mcic,,447,20060101.0,3.0,29.0,M
+mcic,,142,20050101.0,3.0,40.0,F
+mcic,,294,20050101.0,2.0,21.0,F
+mcic,,209,20040101.0,1.0,31.0,M
+mcic,,247,20050101.0,1.0,45.0,F
+mcic,,468,20050101.0,1.0,19.0,M
+mcic,,138,20050101.0,2.0,37.0,M
+mcic,,138,20050101.0,3.0,37.0,M
+mcic,,170,20040101.0,1.0,21.0,M
+mcic,,214,20050101.0,2.0,45.0,M
+mcic,,214,20050101.0,3.0,45.0,M
+mcic,,259,20050101.0,1.0,50.0,M
+mcic,,312,20050101.0,1.0,46.0,M
+mcic,,351,20050101.0,2.0,26.0,F
+mcic,,377,20050101.0,1.0,42.0,M
+mcic,,377,20050101.0,3.0,42.0,M
+mcic,,415,20050101.0,2.0,20.0,M
+mcic,,457,20050101.0,1.0,23.0,M
+mcic,,469,20050101.0,3.0,19.0,M
+mcic,,497,20050101.0,3.0,23.0,M
+mcic,,500,20060101.0,1.0,22.0,M
+mcic,,520,20040101.0,3.0,27.0,M
+mcic,,123,20050101.0,2.0,30.0,M
+mcic,,289,20050101.0,2.0,32.0,M
+mcic,,182,20040101.0,3.0,47.0,M
+mcic,,212,20040101.0,3.0,47.0,M
+mcic,,297,20050101.0,1.0,25.0,F
+mcic,,299,20050101.0,1.0,24.0,F
+mcic,,381,20050101.0,3.0,31.0,M
+mcic,,462,20050101.0,2.0,19.0,M
+mcic,,520,20040101.0,1.0,27.0,M
+mcic,,521,20040101.0,3.0,54.0,M
+mcic,,292,20050101.0,1.0,50.0,M
+mcic,,182,20040101.0,4.0,47.0,M
+mcic,,388,20050101.0,1.0,19.0,F
+mcic,,179,20040101.0,1.0,46.0,F
+mcic,,404,20050101.0,3.0,49.0,M
+mcic,,321,20050101.0,2.0,46.0,F
+mcic,,274,20050101.0,2.0,27.0,M
+mcic,,453,20050101.0,2.0,19.0,M
+mcic,,472,20050101.0,2.0,60.0,F
+mcic,,477,20050101.0,2.0,46.0,M
+mcic,,498,20060101.0,2.0,58.0,M
+mcic,,500,20060101.0,3.0,22.0,M
+mcic,,496,20050101.0,1.0,36.0,M
+mcic,,452,20050101.0,1.0,19.0,M
+mcic,,410,20050101.0,1.0,53.0,M
+mcic,,477,20050101.0,1.0,46.0,M
+mcic,,213,20040101.0,2.0,36.0,M
+mcic,,344,20050101.0,2.0,23.0,F
+mcic,,452,20050101.0,3.0,19.0,M
+mcic,,421,20050101.0,3.0,19.0,F
+mcic,,212,20040101.0,2.0,47.0,M
+mcic,,321,20050101.0,1.0,46.0,F
+mcic,,417,20050101.0,3.0,57.0,M
+mcic,,338,20050101.0,3.0,51.0,F
+mcic,,420,20050101.0,1.0,44.0,F
+mcic,,519,20040101.0,2.0,30.0,M
+mcic,,263,20050101.0,1.0,40.0,F
+mcic,,312,20050101.0,3.0,46.0,M
+mcic,,447,20060101.0,1.0,29.0,M
+mcic,,419,20050101.0,3.0,44.0,F
+mcic,,137,20040101.0,2.0,35.0,M
+mcic,,417,20050101.0,4.0,57.0,M
+mcic,,247,20050101.0,2.0,45.0,F
+mcic,,353,20040101.0,2.0,33.0,F
+mcic,,401,20050101.0,2.0,21.0,M
+mcic,,417,20050101.0,2.0,57.0,M
+mcic,,457,20050101.0,2.0,23.0,M
+mcic,,520,20040101.0,2.0,27.0,M
+mcic,,381,20050101.0,2.0,31.0,M
+mcic,,182,20040101.0,2.0,47.0,M
+mcic,,279,20050101.0,2.0,22.0,F

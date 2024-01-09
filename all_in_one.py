@@ -54,7 +54,7 @@ def main():
         
     if in_csv:
         df = pd.read_csv(in_csv)
-        pipeline.run_multiproc(df.in_paths, df.out_paths, n_procs, hd_bet_cpu)
+        pipeline.run_multiproc(df.in_paths.tolist(), df.out_paths.tolist(), n_procs, hd_bet_cpu)
     else: pipeline.run_singleproc(in_mri, out_mri, hd_bet_cpu)
         
     
