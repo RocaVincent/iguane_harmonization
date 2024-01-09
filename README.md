@@ -106,7 +106,7 @@ You can change the image shape in *./harmonization/training/input_pipeline/const
 You must be in the *./harmonization/training* directory to use this script.
 
 
-## Prediction tasks
+## Prediction models
 
 We provide the code we used for our age prediction models and our binary classifiers.
 
