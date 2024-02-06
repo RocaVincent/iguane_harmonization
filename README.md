@@ -2,7 +2,7 @@
 
 # IGUANe harmonization
 
-This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in the paper (TODO: arxiv link). The model has been trained for harmonization of T1-weighted (T1w) brain images.
+This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in an [ArXiv paper](https://arxiv.org/abs/2402.03227). The model has been trained for harmonization of T1-weighted (T1w) brain images.
 
 Scripts in this repository work on files in Nifti format with **.nii.gz** extension.
 
