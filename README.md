@@ -1,6 +1,6 @@
-<img align='right' src="iguane.png" width="180">
-
 # IGUANe harmonization
+
+<img align='right' src="iguane.png" width="160">
 
 This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in an [ArXiv paper](https://arxiv.org/abs/2402.03227). The model has been trained for harmonization of T1-weighted brain images.
 
@@ -28,7 +28,7 @@ IGUANe can be used both with and without GPU. Nevertheless, it is faster with GP
 
 For IGUANe harmonization, you can use the file *./iguane.yml* to create the *iguane* Anaconda environment: `conda env create -f ./iguane.yml`.
 
-To use a GPU, you have to set environment variables (to do before every usage after having activated your environment):
+To use a GPU, you may have to set environment variables (to do before every usage after having activated your environment):
 ```
 CUDNN_PATH=$(dirname $(python -c "import nvidia.cudnn;print(nvidia.cudnn.__file__)"))
 export LD_LIBRARY_PATH=$CONDA_PREFIX/lib/:$CUDNN_PATH/lib
