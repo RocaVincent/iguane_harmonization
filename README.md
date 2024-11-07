@@ -28,7 +28,7 @@ IGUANe can be used both with and without GPU. Nevertheless, it is faster with GP
 
 For IGUANe harmonization, you can use the file *./iguane.yml* to create the *iguane* Anaconda environment: `conda env create -f ./iguane.yml`.
 
-To use a GPU, you may have to set environment variables (to do before every usage after having activated your environment):
+To use a GPU, you have to set environment variables (to do before every usage after having activated your environment):
 ```
 CUDNN_PATH=$(dirname $(python -c "import nvidia.cudnn;print(nvidia.cudnn.__file__)"))
 export LD_LIBRARY_PATH=$CONDA_PREFIX/lib/:$CUDNN_PATH/lib
@@ -84,7 +84,7 @@ You can also preprocess the MR images yourself by following these steps:
 To apply IGUANe harmonization separately from preprocessing, you can use the script *./harmonization/inference.py*. Three variables need to be defined:
 - `mri_paths`: list of the filepaths of the preprocessed MR images.
 - `dest_paths`: list of the destination filepaths for the harmonized MR images.
-- `weights_path`: filepath (*.h5*) for the weights of the harmonization model. You can let it to *./iguane_weights.h5* to use the model we trained in our study our use your own model.
+- `weights_path`: filepath (*.h5*) for the weights of the harmonization model. You can let it to *./iguane_weights.h5* to use the model we trained in our study or use your own model.
 
 The scripts runs faster with GPU but can also be used with CPU only.
 
