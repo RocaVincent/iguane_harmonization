@@ -2,7 +2,7 @@
 
 <img align='right' src="iguane.png" width="160">
 
-This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in an [ArXiv paper](https://arxiv.org/abs/2402.03227). The model has been trained for harmonization of T1-weighted brain images.
+This repository provides code to use the IGUANe model for harmonization of MR images. The full method as well as validation experiments are detailled in a [peer-reviewed publication](https://doi.org/10.1016/j.media.2024.103388). The model has been trained for harmonization of T1-weighted brain images.
 
 Scripts in this repository work on files in Nifti format with **.nii.gz** extension.
 
@@ -93,7 +93,7 @@ You must be in the *./harmonization* directory to use this script.
 
 ## Harmonization training
 
-To train your own harmonization model, you can use the scrip *./harmonization/training/main.py*. The following variables need to be defined:
+To train your own harmonization model, you can use the script *./harmonization/training/main.py*. The following variables need to be defined:
 - `dataset_pairs`: A list of infinite iterators corresponding to each source domain. Each one yields a batch with images from the reference domain and images from the source domain. To implement them, you can use one of the two functions defined in *./harmonization/training/input_pipeline/tf_dataset.py*. Both work from files in *TFRecord* format ([documentation](https://www.tensorflow.org/tutorials/load_data/tfrecord)) where each entry must have been encoded from a dictionnary with `mri` key associated with the MR matrix as value. **Important:** The intensities must have been scaled/shifted to have median of brain intensity and backgroud to 0 and -1, respectively (`mri = mri/500-1` after [preprocessing](#preprocessing)).
   - `datasets_from_tfrecords`: Creates dataset pairs without bias sampling.
   - `datasets_from_tfrecords_biasSampling`: Creates dataset pairs with the bias sampling strategy described in our paper. The function we used to compute the sampling probabilities in our experiments is in *./harmonization/training/input_pipeline/bias_sampling_age.py*.
