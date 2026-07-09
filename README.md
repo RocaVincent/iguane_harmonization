@@ -47,7 +47,7 @@ ln -s $CONDA_PREFIX/lib/libdevice.10.bc $CONDA_PREFIX/lib/nvvm/libdevice
 Preprocessing requires additional tools:
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 - [ANTs](http://stnava.github.io/ANTs/)
-- [HD-BET](https://github.com/MIC-DKFZ/HD-BET), we recommend to install it in the *iguane* environment you previously created by following these steps:
+- [HD-BET](https://github.com/MIC-DKFZ/HD-BET/tree/ae160681324d524db3578e4135bf781f8206e146), we recommend to install it in the *iguane* environment you previously created by following these steps:
   1. If you use a GPU (recommended if available), install PyTorch as described [here](https://pytorch.org/get-started/locally/#start-locally), e.g. `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118`
   2. Install HD-BET: `git clone https://github.com/MIC-DKFZ/HD-BET.git && cd HD-BET && git checkout ae16068 && pip install -e .`
 
@@ -72,7 +72,7 @@ Note that preprocessing includes image cropping from (182, 218, 182) to (160, 19
 You can also preprocess the MR images yourself by following these steps:
 
 1. Setting the MR image in the standard MNI152 orientation with [fslreorient2std](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Fslutils).
-2. Skull-stripping with [HD-BET](https://github.com/MIC-DKFZ/HD-BET) (commit ae16068).
+2. Skull-stripping with [HD-BET](https://github.com/MIC-DKFZ/HD-BET/tree/ae160681324d524db3578e4135bf781f8206e146) (commit ae16068).
 3. Bias correction with [N4BiasFieldCorrection](https://manpages.ubuntu.com/manpages/trusty/man1/N4BiasFieldCorrection.1.html), using the brain mask computed in step 2.
 4. Linear registration with [FSL-FLIRT](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FLIRT) towards a MNI152 template (*./preprocessing/MNI152_T1_1mm.nii.gz*) with trilinear interpolation and six degrees of freedom.
 5. Normalize the median of the brain intensities to 500. You can use the script *./preprocessing/median_norm.py*. The brain mask associated to each MR image is required. To obtain it, you can apply the transformation computed in step 4 to the brain mask computed in step 2 (with nearestneighbour interpolation).
